@@ -535,3 +535,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Dec2024 22:33:02.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 lost connection: Disconnected
 [18Dec2024 22:33:02.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 left the game
 [18Dec2024 22:33:11.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada has made the advancement [Monster Hunter]
+[18Dec2024 22:36:02.264] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Empanada})
+[18Dec2024 22:37:17.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.235.166.9:43087] logged in with entity id 8126 at (-486.69999998807907, 94.0, -208.69999998807907)
+[18Dec2024 22:37:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
+[18Dec2024 22:37:17.935] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
+[18Dec2024 22:37:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> hay mobs bien raros
+[18Dec2024 22:38:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> como cuales
+[18Dec2024 22:38:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> un fantasma y un zombie grandote que tira larva
+[18Dec2024 22:38:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> y un pez todo rarete
+[18Dec2024 22:38:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ontas
+[18Dec2024 22:38:56.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to Empanada]
+[18Dec2024 22:39:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> aquo
+[18Dec2024 22:39:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> wacha
+[18Dec2024 22:39:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> slv y aqui donde es
+[18Dec2024 22:39:31.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> mas adelantito de donde andabamos
+[18Dec2024 22:39:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada has made the advancement [Acquire Hardware]
+[18Dec2024 22:39:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> wey
+[18Dec2024 22:39:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> eu
+[18Dec2024 22:40:01.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> a cabron
+[18Dec2024 22:40:45.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> cierto la mesa de descrafteo del twiligth
+[18Dec2024 22:40:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> xd
+[18Dec2024 22:41:00.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> aguanta creo que ya vino mi mom xd
+[18Dec2024 22:41:18.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> onta
+[18Dec2024 22:41:22.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> a ya
+[18Dec2024 22:41:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada has made the advancement [Take Aim]
+[18Dec2024 22:43:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> se te ven las bolas juan
+[18Dec2024 22:44:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> jaja
