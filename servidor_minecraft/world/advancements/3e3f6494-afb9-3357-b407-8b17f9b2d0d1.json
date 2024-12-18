@@ -409,6 +409,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-18 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-12-18 23:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-18 22:41:33 +0000"
