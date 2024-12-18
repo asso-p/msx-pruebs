@@ -224,9 +224,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-18 02:20:28 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-18 22:45:10 +0000",
       "minecraft:taiga": "2024-12-18 22:23:08 +0000",
       "minecraft:cherry_grove": "2024-12-18 02:04:18 +0000",
+      "minecraft:river": "2024-12-18 22:45:02 +0000",
       "minecraft:stony_shore": "2024-12-18 22:30:52 +0000",
+      "minecraft:cold_ocean": "2024-12-18 22:43:01 +0000",
       "minecraft:forest": "2024-12-18 22:22:00 +0000",
       "minecraft:frozen_peaks": "2024-12-18 02:54:51 +0000",
       "minecraft:meadow": "2024-12-18 02:01:09 +0000",
@@ -346,7 +349,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 22:37:21 +0000",
       "minecraft:creeper": "2024-12-18 22:36:07 +0000",
-      "minecraft:zombie": "2024-12-18 22:33:11 +0000"
+      "minecraft:witch": "2024-12-18 22:49:05 +0000",
+      "minecraft:zombie": "2024-12-18 22:33:11 +0000",
+      "minecraft:drowned": "2024-12-18 22:46:26 +0000"
     },
     "done": false
   },
@@ -368,15 +373,45 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-18 22:47:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2024-12-18 22:48:14 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2024-12-18 22:29:54 +0000"
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-12-18 22:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 22:48:20 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2024-12-18 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-18 22:41:33 +0000"
     },
     "done": true
   },
