@@ -226,10 +226,17 @@
       "minecraft:snowy_slopes": "2024-12-18 02:10:02 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-18 22:45:43 +0000",
       "minecraft:taiga": "2024-12-18 22:23:04 +0000",
+      "minecraft:deep_ocean": "2024-12-19 01:36:33 +0000",
       "minecraft:cherry_grove": "2024-12-18 01:17:24 +0000",
+      "minecraft:sunflower_plains": "2024-12-19 01:40:24 +0000",
+      "minecraft:beach": "2024-12-18 23:45:25 +0000",
       "minecraft:river": "2024-12-18 23:05:59 +0000",
       "minecraft:stony_shore": "2024-12-18 22:38:56 +0000",
+      "minecraft:cold_ocean": "2024-12-19 01:07:40 +0000",
       "minecraft:forest": "2024-12-18 22:22:19 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-19 01:08:30 +0000",
+      "minecraft:ocean": "2024-12-19 01:08:51 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-19 01:12:51 +0000",
       "minecraft:frozen_peaks": "2024-12-18 01:22:26 +0000",
       "minecraft:meadow": "2024-12-18 01:16:09 +0000",
       "minecraft:plains": "2024-12-18 01:21:36 +0000"
@@ -292,8 +299,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-19 00:12:41 +0000",
       "cooked_beef": "2024-12-18 02:33:37 +0000",
-      "bread": "2024-12-18 02:14:51 +0000"
+      "apple": "2024-12-19 00:47:18 +0000",
+      "bread": "2024-12-18 02:14:51 +0000",
+      "golden_apple": "2024-12-19 00:51:45 +0000"
     },
     "done": false
   },
@@ -373,6 +383,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 03:01:36 +0000",
       "minecraft:spider": "2024-12-18 23:06:46 +0000",
+      "minecraft:cave_spider": "2024-12-19 00:23:38 +0000",
+      "minecraft:stray": "2024-12-19 00:40:36 +0000",
+      "minecraft:vex": "2024-12-19 00:32:41 +0000",
       "minecraft:zombie": "2024-12-18 02:58:22 +0000",
       "minecraft:drowned": "2024-12-18 22:47:13 +0000"
     },
@@ -402,9 +415,9 @@
     },
     "done": true
   },
-  "beautify:rope": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "requirement": "2024-12-18 23:03:24 +0000"
+      "obsidian": "2024-12-18 22:58:21 +0000"
     },
     "done": true
   },
@@ -420,9 +433,45 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "beautify:rope": {
     "criteria": {
-      "obsidian": "2024-12-18 22:58:21 +0000"
+      "requirement": "2024-12-18 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2024-12-18 23:44:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-19 00:07:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-19 00:07:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-19 00:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 00:42:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-19 00:51:56 +0000"
     },
     "done": true
   },
