@@ -1,34 +1,35 @@
-[19Dec2024 22:33:52.281] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[19Dec2024 22:33:52.286] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Dec2024 22:33:56.992] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Dec2024 22:33:57.059] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/msx-pruebs/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Dec2024 22:33:57.543] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 22:33:57.548] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 22:33:57.550] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 22:33:57.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 22:33:57.928] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[19Dec2024 22:33:57.930] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/msx-pruebs/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
-[19Dec2024 22:33:57.931] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[19Dec2024 22:34:01.224] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Dec2024 22:34:01.383] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[19Dec2024 22:34:01.507] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Dec2024 22:34:01.621] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[19Dec2024 22:34:01.651] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 112 options available, 0 override(s) found
-[19Dec2024 22:34:01.672] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Dec2024 22:34:01.809] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[19Dec2024 22:34:01.814] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Dec2024 22:34:01.835] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Dec2024 22:34:02.951] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
-[19Dec2024 22:34:02.955] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
-[19Dec2024 22:34:02.956] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin
-[19Dec2024 22:34:02.960] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[19Dec2024 22:34:02.960] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[19Dec2024 22:34:02.960] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin
-[19Dec2024 22:34:03.926] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
-[19Dec2024 22:34:04.198] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[19Dec2024 22:34:11.566] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Dec2024 22:34:13.503] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@51424203 on thread Thread[#32,modloading-worker-0,5,main]
-[19Dec2024 22:34:13.513] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[19Dec2024 23:42:22.914] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[19Dec2024 23:42:22.917] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Dec2024 23:42:23.512] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Dec2024 23:42:23.560] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/msx-pruebs/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Dec2024 23:42:23.867] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 23:42:23.869] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 23:42:23.870] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 23:42:23.871] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 23:42:24.135] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[19Dec2024 23:42:24.137] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/msx-pruebs/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[19Dec2024 23:42:24.137] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[19Dec2024 23:42:27.217] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Dec2024 23:42:27.390] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[19Dec2024 23:42:27.448] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 23:42:27.568] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 23:42:27.584] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 112 options available, 0 override(s) found
+[19Dec2024 23:42:27.614] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 23:42:27.635] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[19Dec2024 23:42:27.639] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 23:42:27.651] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 23:42:28.782] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
+[19Dec2024 23:42:28.784] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
+[19Dec2024 23:42:28.784] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin
+[19Dec2024 23:42:28.789] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[19Dec2024 23:42:28.789] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[19Dec2024 23:42:28.790] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin
+[19Dec2024 23:42:29.506] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[19Dec2024 23:42:29.760] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Dec2024 23:42:35.303] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhh000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19Dec2024 23:42:36.786] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[19Dec2024 23:42:36.801] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@1544ded3 on thread Thread[#34,modloading-worker-0,5,main]
+[19Dec2024 23:42:36.812] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -72,21 +73,20 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[19Dec2024 22:34:13.524] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[19Dec2024 22:34:13.524] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[19Dec2024 22:34:13.554] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[19Dec2024 22:34:13.897] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[19Dec2024 22:34:13.899] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[19Dec2024 22:34:13.902] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[19Dec2024 22:34:13.911] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[19Dec2024 22:34:13.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[19Dec2024 22:34:13.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[19Dec2024 22:34:13.920] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[19Dec2024 22:34:13.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[19Dec2024 22:34:13.946] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[19Dec2024 22:34:14.273] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[19Dec2024 22:34:14.542] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[19Dec2024 22:34:14.542] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+[19Dec2024 23:42:36.825] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[19Dec2024 23:42:36.840] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[19Dec2024 23:42:37.131] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Dec2024 23:42:37.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[19Dec2024 23:42:37.141] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[19Dec2024 23:42:37.142] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[19Dec2024 23:42:37.143] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[19Dec2024 23:42:37.144] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[19Dec2024 23:42:37.145] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[19Dec2024 23:42:37.146] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[19Dec2024 23:42:37.193] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[19Dec2024 23:42:37.487] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[19Dec2024 23:42:37.810] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[19Dec2024 23:42:37.812] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -113,210 +113,205 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[19Dec2024 22:34:15.256] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[19Dec2024 22:34:16.272] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Dec2024 22:34:16.279] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Dec2024 22:34:16.627] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[19Dec2024 22:34:17.002] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
-[19Dec2024 22:34:17.003] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
-[19Dec2024 22:34:17.009] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
-[19Dec2024 22:34:17.010] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
-[19Dec2024 22:34:17.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
-[19Dec2024 22:34:17.032] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
-[19Dec2024 22:34:17.048] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
-[19Dec2024 22:34:17.048] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
-[19Dec2024 22:34:17.048] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
-[19Dec2024 22:34:17.049] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
-[19Dec2024 22:34:17.051] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
-[19Dec2024 22:34:17.052] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
-[19Dec2024 22:34:17.052] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
-[19Dec2024 22:34:17.064] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beach Villagers...
-[19Dec2024 22:34:17.064] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
-[19Dec2024 22:34:17.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
-[19Dec2024 22:34:17.066] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
-[19Dec2024 22:34:17.074] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
-[19Dec2024 22:34:17.075] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
-[19Dec2024 22:34:17.077] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
-[19Dec2024 22:34:17.077] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
-[19Dec2024 22:34:17.077] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
-[19Dec2024 22:34:17.078] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
-[19Dec2024 22:34:17.078] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
-[19Dec2024 22:34:17.079] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
-[19Dec2024 22:34:17.079] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
-[19Dec2024 22:34:17.081] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
-[19Dec2024 22:34:17.082] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
-[19Dec2024 22:34:17.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
-[19Dec2024 22:34:17.089] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
-[19Dec2024 22:34:17.090] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
-[19Dec2024 22:34:17.091] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
-[19Dec2024 22:34:17.093] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
-[19Dec2024 22:34:17.110] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
-[19Dec2024 22:34:17.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
-[19Dec2024 22:34:17.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
-[19Dec2024 22:34:17.114] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
-[19Dec2024 22:34:17.115] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
-[19Dec2024 22:34:17.123] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
-[19Dec2024 22:34:17.123] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
-[19Dec2024 22:34:17.124] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
-[19Dec2024 22:34:17.125] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
-[19Dec2024 22:34:17.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
-[19Dec2024 22:34:17.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
-[19Dec2024 22:34:17.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
-[19Dec2024 22:34:17.128] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
-[19Dec2024 22:34:17.130] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
-[19Dec2024 22:34:17.132] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
-[19Dec2024 22:34:17.133] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
-[19Dec2024 22:34:17.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
-[19Dec2024 22:34:17.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
-[19Dec2024 22:34:17.135] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
-[19Dec2024 22:34:17.136] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
-[19Dec2024 22:34:17.137] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
-[19Dec2024 22:34:17.139] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
-[19Dec2024 22:34:17.150] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
-[19Dec2024 22:34:17.152] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
-[19Dec2024 22:34:17.152] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
-[19Dec2024 22:34:17.153] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
-[19Dec2024 22:34:17.155] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
-[19Dec2024 22:34:17.156] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
-[19Dec2024 22:34:17.179] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
-[19Dec2024 22:34:17.179] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
-[19Dec2024 22:34:17.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
-[19Dec2024 22:34:17.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
-[19Dec2024 22:34:17.186] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
-[19Dec2024 22:34:17.186] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
-[19Dec2024 22:34:17.189] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
-[19Dec2024 22:34:17.190] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
-[19Dec2024 22:34:17.190] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
-[19Dec2024 22:34:17.191] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
-[19Dec2024 22:34:17.192] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
-[19Dec2024 22:34:17.193] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
-[19Dec2024 22:34:17.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
-[19Dec2024 22:34:17.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
-[19Dec2024 22:34:17.196] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
-[19Dec2024 22:34:17.199] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
-[19Dec2024 22:34:17.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
-[19Dec2024 22:34:17.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
-[19Dec2024 22:34:17.212] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
-[19Dec2024 22:34:17.212] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
-[19Dec2024 22:34:17.213] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
-[19Dec2024 22:34:17.213] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
-[19Dec2024 22:34:17.213] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
-[19Dec2024 22:34:17.217] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
-[19Dec2024 22:34:17.218] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
-[19Dec2024 22:34:17.228] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
-[19Dec2024 22:34:17.229] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
-[19Dec2024 22:34:17.229] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
-[19Dec2024 22:34:17.230] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
-[19Dec2024 22:34:17.230] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
-[19Dec2024 22:34:17.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
-[19Dec2024 22:34:17.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
-[19Dec2024 22:34:17.232] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
-[19Dec2024 22:34:17.232] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
-[19Dec2024 22:34:17.233] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
-[19Dec2024 22:34:17.233] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
-[19Dec2024 22:34:17.234] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
-[19Dec2024 22:34:17.235] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
-[19Dec2024 22:34:17.238] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
-[19Dec2024 22:34:17.239] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
-[19Dec2024 22:34:17.239] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
-[19Dec2024 22:34:17.239] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
-[19Dec2024 22:34:17.240] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
-[19Dec2024 22:34:17.242] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
-[19Dec2024 22:34:17.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
-[19Dec2024 22:34:17.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
-[19Dec2024 22:34:17.249] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
-[19Dec2024 22:34:17.250] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
-[19Dec2024 22:34:17.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
-[19Dec2024 22:34:17.255] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
-[19Dec2024 22:34:17.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
-[19Dec2024 22:34:17.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
-[19Dec2024 22:34:17.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
-[19Dec2024 22:34:17.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
-[19Dec2024 22:34:17.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
-[19Dec2024 22:34:17.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
-[19Dec2024 22:34:17.260] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
-[19Dec2024 22:34:17.262] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
-[19Dec2024 22:34:17.263] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
-[19Dec2024 22:34:17.264] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
-[19Dec2024 22:34:17.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
-[19Dec2024 22:34:17.269] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
-[19Dec2024 22:34:17.276] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
-[19Dec2024 22:34:17.288] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
-[19Dec2024 22:34:17.289] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
-[19Dec2024 22:34:17.290] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
-[19Dec2024 22:34:17.290] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
-[19Dec2024 22:34:17.292] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
-[19Dec2024 22:34:17.295] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
-[19Dec2024 22:34:17.297] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
-[19Dec2024 22:34:17.298] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
-[19Dec2024 22:34:17.299] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
-[19Dec2024 22:34:17.299] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
-[19Dec2024 22:34:17.300] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
-[19Dec2024 22:34:17.301] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
-[19Dec2024 22:34:17.302] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
-[19Dec2024 22:34:17.304] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
-[19Dec2024 22:34:17.305] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
-[19Dec2024 22:34:17.306] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
-[19Dec2024 22:34:17.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
-[19Dec2024 22:34:17.310] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
-[19Dec2024 22:34:17.318] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
-[19Dec2024 22:34:17.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
-[19Dec2024 22:34:17.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
-[19Dec2024 22:34:17.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
-[19Dec2024 22:34:17.325] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
-[19Dec2024 22:34:17.325] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
-[19Dec2024 22:34:17.326] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
-[19Dec2024 22:34:17.326] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
-[19Dec2024 22:34:17.327] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
-[19Dec2024 22:34:17.327] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
-[19Dec2024 22:34:17.350] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
-[19Dec2024 22:34:17.386] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
-[19Dec2024 22:34:17.387] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
-[19Dec2024 22:34:17.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
-[19Dec2024 22:34:17.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
-[19Dec2024 22:34:17.406] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
-[19Dec2024 22:34:17.406] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
-[19Dec2024 22:34:17.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
-[19Dec2024 22:34:17.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
-[19Dec2024 22:34:17.413] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
-[19Dec2024 22:34:17.413] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
-[19Dec2024 22:34:17.415] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
-[19Dec2024 22:34:17.416] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
-[19Dec2024 22:34:17.416] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
-[19Dec2024 22:34:17.558] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx-pruebs/servidor_minecraft/config/quark-common.toml is not correct. Correcting
-[19Dec2024 22:34:18.436] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
-[19Dec2024 22:34:18.443] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
-[19Dec2024 22:34:18.443] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 98 listeners
-[19Dec2024 22:34:21.919] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
-[19Dec2024 22:34:26.585] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[19Dec2024 22:34:26.585] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[19Dec2024 22:34:26.585] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[19Dec2024 22:34:26.741] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[19Dec2024 22:34:26.741] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[19Dec2024 22:34:26.741] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[19Dec2024 22:34:26.742] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[19Dec2024 22:34:26.742] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[19Dec2024 22:34:26.743] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[19Dec2024 22:34:26.744] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[19Dec2024 22:34:26.744] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[19Dec2024 22:34:27.304] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[19Dec2024 22:34:27.309] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
-[19Dec2024 22:34:27.441] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[19Dec2024 22:34:27.442] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[19Dec2024 22:34:27.444] [Thread-1/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[19Dec2024 22:34:27.444] [Thread-1/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[19Dec2024 22:34:27.460] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 48 listeners
-[19Dec2024 22:34:27.476] [Thread-1/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 48 listeners
-[19Dec2024 22:34:27.609] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
-[19Dec2024 22:34:27.610] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 41 listeners
-[19Dec2024 22:34:27.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[19Dec2024 22:34:27.647] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[19Dec2024 22:34:27.647] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[19Dec2024 22:34:27.647] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[19Dec2024 22:34:27.648] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[19Dec2024 22:34:27.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.4.2-neoforge Target: 1.20.1-1.5.1-neoforge
-[19Dec2024 22:34:27.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[19Dec2024 22:34:27.721] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Dec2024 23:42:38.368] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[19Dec2024 23:42:39.130] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Dec2024 23:42:39.131] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Dec2024 23:42:39.404] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19Dec2024 23:42:39.864] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[19Dec2024 23:42:39.865] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[19Dec2024 23:42:39.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[19Dec2024 23:42:39.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[19Dec2024 23:42:39.872] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[19Dec2024 23:42:39.888] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[19Dec2024 23:42:39.917] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[19Dec2024 23:42:39.917] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[19Dec2024 23:42:39.917] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[19Dec2024 23:42:39.927] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[19Dec2024 23:42:39.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[19Dec2024 23:42:39.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[19Dec2024 23:42:39.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[19Dec2024 23:42:39.937] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beach Villagers...
+[19Dec2024 23:42:39.940] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[19Dec2024 23:42:39.940] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[19Dec2024 23:42:39.941] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[19Dec2024 23:42:39.948] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[19Dec2024 23:42:39.957] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[19Dec2024 23:42:39.959] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[19Dec2024 23:42:39.959] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[19Dec2024 23:42:39.959] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[19Dec2024 23:42:39.960] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[19Dec2024 23:42:39.960] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[19Dec2024 23:42:39.960] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[19Dec2024 23:42:39.961] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[19Dec2024 23:42:39.962] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[19Dec2024 23:42:39.963] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[19Dec2024 23:42:39.963] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[19Dec2024 23:42:39.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[19Dec2024 23:42:39.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[19Dec2024 23:42:39.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[19Dec2024 23:42:39.967] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[19Dec2024 23:42:39.991] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[19Dec2024 23:42:39.993] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[19Dec2024 23:42:39.994] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[19Dec2024 23:42:39.995] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[19Dec2024 23:42:39.995] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[19Dec2024 23:42:39.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[19Dec2024 23:42:39.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[19Dec2024 23:42:39.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[19Dec2024 23:42:39.998] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[19Dec2024 23:42:39.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[19Dec2024 23:42:39.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[19Dec2024 23:42:40.000] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[19Dec2024 23:42:40.000] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[19Dec2024 23:42:40.001] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[19Dec2024 23:42:40.002] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[19Dec2024 23:42:40.003] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[19Dec2024 23:42:40.003] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[19Dec2024 23:42:40.004] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[19Dec2024 23:42:40.020] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[19Dec2024 23:42:40.025] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[19Dec2024 23:42:40.026] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[19Dec2024 23:42:40.028] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[19Dec2024 23:42:40.037] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[19Dec2024 23:42:40.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[19Dec2024 23:42:40.046] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[19Dec2024 23:42:40.048] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[19Dec2024 23:42:40.050] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[19Dec2024 23:42:40.056] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[19Dec2024 23:42:40.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[19Dec2024 23:42:40.095] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[19Dec2024 23:42:40.097] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[19Dec2024 23:42:40.098] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[19Dec2024 23:42:40.100] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[19Dec2024 23:42:40.101] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[19Dec2024 23:42:40.103] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[19Dec2024 23:42:40.104] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[19Dec2024 23:42:40.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[19Dec2024 23:42:40.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[19Dec2024 23:42:40.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[19Dec2024 23:42:40.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[19Dec2024 23:42:40.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[19Dec2024 23:42:40.114] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[19Dec2024 23:42:40.115] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[19Dec2024 23:42:40.115] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[19Dec2024 23:42:40.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[19Dec2024 23:42:40.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[19Dec2024 23:42:40.128] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[19Dec2024 23:42:40.129] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[19Dec2024 23:42:40.130] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[19Dec2024 23:42:40.131] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[19Dec2024 23:42:40.131] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[19Dec2024 23:42:40.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[19Dec2024 23:42:40.155] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[19Dec2024 23:42:40.162] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[19Dec2024 23:42:40.167] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[19Dec2024 23:42:40.169] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[19Dec2024 23:42:40.169] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[19Dec2024 23:42:40.170] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[19Dec2024 23:42:40.170] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[19Dec2024 23:42:40.179] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[19Dec2024 23:42:40.179] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[19Dec2024 23:42:40.180] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[19Dec2024 23:42:40.180] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[19Dec2024 23:42:40.181] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[19Dec2024 23:42:40.181] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[19Dec2024 23:42:40.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[19Dec2024 23:42:40.184] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[19Dec2024 23:42:40.184] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[19Dec2024 23:42:40.185] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[19Dec2024 23:42:40.185] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[19Dec2024 23:42:40.185] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[19Dec2024 23:42:40.186] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[19Dec2024 23:42:40.188] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[19Dec2024 23:42:40.190] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[19Dec2024 23:42:40.201] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[19Dec2024 23:42:40.203] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[19Dec2024 23:42:40.209] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[19Dec2024 23:42:40.209] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[19Dec2024 23:42:40.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[19Dec2024 23:42:40.215] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[19Dec2024 23:42:40.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[19Dec2024 23:42:40.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[19Dec2024 23:42:40.217] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[19Dec2024 23:42:40.217] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[19Dec2024 23:42:40.217] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[19Dec2024 23:42:40.219] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[19Dec2024 23:42:40.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[19Dec2024 23:42:40.232] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[19Dec2024 23:42:40.233] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[19Dec2024 23:42:40.234] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[19Dec2024 23:42:40.236] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[19Dec2024 23:42:40.243] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[19Dec2024 23:42:40.244] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[19Dec2024 23:42:40.244] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[19Dec2024 23:42:40.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[19Dec2024 23:42:40.246] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[19Dec2024 23:42:40.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[19Dec2024 23:42:40.249] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[19Dec2024 23:42:40.250] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[19Dec2024 23:42:40.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[19Dec2024 23:42:40.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[19Dec2024 23:42:40.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[19Dec2024 23:42:40.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[19Dec2024 23:42:40.253] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[19Dec2024 23:42:40.255] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[19Dec2024 23:42:40.256] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[19Dec2024 23:42:40.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[19Dec2024 23:42:40.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[19Dec2024 23:42:40.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[19Dec2024 23:42:40.260] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[19Dec2024 23:42:40.262] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[19Dec2024 23:42:40.262] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[19Dec2024 23:42:40.264] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[19Dec2024 23:42:40.265] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[19Dec2024 23:42:40.266] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[19Dec2024 23:42:40.266] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[19Dec2024 23:42:40.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[19Dec2024 23:42:40.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[19Dec2024 23:42:40.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[19Dec2024 23:42:40.281] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[19Dec2024 23:42:40.288] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[19Dec2024 23:42:40.289] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[19Dec2024 23:42:40.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[19Dec2024 23:42:40.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[19Dec2024 23:42:40.305] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[19Dec2024 23:42:40.305] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[19Dec2024 23:42:40.309] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[19Dec2024 23:42:40.309] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[19Dec2024 23:42:40.310] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[19Dec2024 23:42:40.310] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[19Dec2024 23:42:40.312] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[19Dec2024 23:42:40.312] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[19Dec2024 23:42:40.313] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[19Dec2024 23:42:40.936] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
+[19Dec2024 23:42:40.941] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
+[19Dec2024 23:42:40.941] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 98 listeners
+[19Dec2024 23:42:44.055] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
+[19Dec2024 23:42:49.063] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[19Dec2024 23:42:49.064] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[19Dec2024 23:42:49.064] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[19Dec2024 23:42:49.251] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[19Dec2024 23:42:49.251] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[19Dec2024 23:42:49.251] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[19Dec2024 23:42:49.252] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[19Dec2024 23:42:49.252] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[19Dec2024 23:42:49.253] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[19Dec2024 23:42:49.254] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[19Dec2024 23:42:49.254] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[19Dec2024 23:42:49.816] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[19Dec2024 23:42:49.821] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
+[19Dec2024 23:42:49.949] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[19Dec2024 23:42:49.950] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[19Dec2024 23:42:50.116] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
+[19Dec2024 23:42:50.116] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 41 listeners
+[19Dec2024 23:42:50.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[19Dec2024 23:42:50.166] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[19Dec2024 23:42:50.167] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[19Dec2024 23:42:50.167] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[19Dec2024 23:42:50.170] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[19Dec2024 23:42:50.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.4.2-neoforge Target: 1.20.1-1.5.1-neoforge
+[19Dec2024 23:42:50.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[19Dec2024 23:42:50.267] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -331,27 +326,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[19Dec2024 22:34:27.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[19Dec2024 22:34:27.758] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[19Dec2024 22:34:27.771] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 48 listeners
-[19Dec2024 22:34:27.777] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[19Dec2024 22:34:27.794] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19Dec2024 22:34:27.794] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Dec2024 22:34:27.795] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[19Dec2024 22:34:27.796] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Dec2024 22:34:27.807] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
-[19Dec2024 22:34:27.807] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
-[19Dec2024 22:34:27.842] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[19Dec2024 22:34:27.846] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[19Dec2024 22:34:27.847] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[19Dec2024 22:34:27.849] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[19Dec2024 22:34:27.863] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[19Dec2024 22:34:27.866] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[19Dec2024 22:34:27.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[19Dec2024 22:34:27.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[19Dec2024 22:34:27.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
-[19Dec2024 22:34:27.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[19Dec2024 22:34:28.068] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Dec2024 23:42:50.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[19Dec2024 23:42:50.289] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[19Dec2024 23:42:50.308] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[19Dec2024 23:42:50.334] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[19Dec2024 23:42:50.335] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19Dec2024 23:42:50.336] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[19Dec2024 23:42:50.336] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[19Dec2024 23:42:50.348] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
+[19Dec2024 23:42:50.351] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
+[19Dec2024 23:42:50.397] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[19Dec2024 23:42:50.401] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[19Dec2024 23:42:50.402] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[19Dec2024 23:42:50.403] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[19Dec2024 23:42:50.416] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[19Dec2024 23:42:50.422] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[19Dec2024 23:42:50.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[19Dec2024 23:42:50.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[19Dec2024 23:42:50.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
+[19Dec2024 23:42:50.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19Dec2024 23:42:50.618] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -366,26 +360,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[19Dec2024 22:34:28.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[19Dec2024 22:34:28.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.19
-[19Dec2024 22:34:28.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[19Dec2024 22:34:28.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[19Dec2024 22:34:28.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[19Dec2024 22:34:28.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[19Dec2024 22:34:28.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[19Dec2024 22:34:28.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
-[19Dec2024 22:34:28.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[19Dec2024 22:34:28.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
-[19Dec2024 22:34:28.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[19Dec2024 22:34:29.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[19Dec2024 22:34:29.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[19Dec2024 22:34:29.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[19Dec2024 22:34:29.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[19Dec2024 22:34:29.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[19Dec2024 22:34:29.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Dec2024 22:34:29.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[19Dec2024 22:34:29.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[19Dec2024 22:34:29.910] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Dec2024 23:42:50.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[19Dec2024 23:42:51.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.19
+[19Dec2024 23:42:51.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[19Dec2024 23:42:51.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[19Dec2024 23:42:51.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[19Dec2024 23:42:51.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[19Dec2024 23:42:51.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[19Dec2024 23:42:51.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[19Dec2024 23:42:51.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[19Dec2024 23:42:51.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
+[19Dec2024 23:42:51.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[19Dec2024 23:42:51.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[19Dec2024 23:42:51.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[19Dec2024 23:42:52.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[19Dec2024 23:42:52.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[19Dec2024 23:42:52.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[19Dec2024 23:42:52.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Dec2024 23:42:52.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[19Dec2024 23:42:52.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[19Dec2024 23:42:52.159] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -400,222 +394,353 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[19Dec2024 22:34:29.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[19Dec2024 22:34:30.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
-[19Dec2024 22:34:37.514] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Dec2024 22:34:45.746] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
-[19Dec2024 22:34:45.747] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
-[19Dec2024 22:34:47.790] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
-[19Dec2024 22:34:47.791] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
-[19Dec2024 22:34:49.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[19Dec2024 22:34:49.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[19Dec2024 22:34:49.801] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[19Dec2024 22:34:49.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[19Dec2024 22:34:49.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[19Dec2024 22:34:49.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[19Dec2024 22:34:49.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[19Dec2024 22:34:49.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[19Dec2024 22:34:49.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 58 recipes
-[19Dec2024 22:34:50.154] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
-[19Dec2024 22:34:50.160] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4425 recipe advancements
-[19Dec2024 22:34:50.169] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 587 advancements
-[19Dec2024 22:34:50.176] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[19Dec2024 22:34:50.189] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
-[19Dec2024 22:34:50.197] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[19Dec2024 22:34:50.229] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
-[19Dec2024 22:34:50.230] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
-[19Dec2024 22:34:50.230] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
-[19Dec2024 22:34:50.231] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
-[19Dec2024 22:34:50.232] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
-[19Dec2024 22:34:50.232] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
-[19Dec2024 22:34:50.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
-[19Dec2024 22:34:50.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
-[19Dec2024 22:34:50.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
-[19Dec2024 22:34:50.287] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[19Dec2024 22:34:57.790] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
-[19Dec2024 22:34:58.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Dec2024 22:34:58.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Dec2024 22:34:58.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Dec2024 22:34:58.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Dec2024 22:34:58.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Dec2024 22:34:58.488] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Dec2024 22:34:58.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Dec2024 22:34:58.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Dec2024 22:34:58.574] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Dec2024 22:34:58.575] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Dec2024 22:34:58.684] [Server thread/INFO] [Framework/]: Loading server configs...
-[19Dec2024 22:34:58.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Dec2024 22:35:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Dec2024 22:35:09.105] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.128] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.160] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.171] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.191] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:09.893] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:10.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:10.889] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 22:35:11.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[19Dec2024 22:35:11.889] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[19Dec2024 22:35:12.166] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6278 ms
-[19Dec2024 22:35:12.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.580s)! For help, type "help"
-[19Dec2024 22:35:12.234] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Dec2024 22:35:12.242] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[19Dec2024 22:36:25.247] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70709a96[id=<null>,name=Empanada,properties={},legacy=false] (/127.240.154.25:42531) lost connection: Disconnected
-[19Dec2024 22:37:02.401] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Dec2024 22:37:02.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Empanada[/127.240.154.25:36063] logged in with entity id 276 at (-57.86542905259752, 112.0, -20.754845065762687)
-[19Dec2024 22:37:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada joined the game
-[19Dec2024 22:37:02.917] [Server thread/INFO] [Jade/]: Syncing config to Empanada (3e3f6494-afb9-3357-b407-8b17f9b2d0d1)
-[19Dec2024 22:38:21.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada was slain by Zombie
-[19Dec2024 22:38:59.753] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19Dec2024 22:38:59.754] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[19Dec2024 22:39:01.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.235.166.9:51349] logged in with entity id 523 at (-58.2526735677342, 112.0, -20.37170868952929)
-[19Dec2024 22:39:01.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
-[19Dec2024 22:39:01.147] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
-[19Dec2024 22:39:13.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Zombie
-[19Dec2024 22:39:50.074] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19Dec2024 22:39:50.074] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[19Dec2024 22:40:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que mal me va
-[19Dec2024 22:40:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> igual
-[19Dec2024 22:40:56.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> zzzz
-[19Dec2024 22:41:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> not engo xd
-[19Dec2024 22:41:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ven
-[19Dec2024 22:41:23.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ponmelos encimax d
-[19Dec2024 22:41:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> me haces un cofre= xd
-[19Dec2024 22:41:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ponme a los cangrejos encima
-[19Dec2024 22:42:05.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> c¿voy
-[19Dec2024 22:42:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> luego me meto a un hoyo y me desconecto asi quedan ahi encerrados xd
-[19Dec2024 22:42:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> gracia
-[19Dec2024 22:43:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaj
-[19Dec2024 22:43:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ajajaj wtf
-[19Dec2024 22:43:17.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> esta re bug
-[19Dec2024 22:43:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> o solo yo lo veo asi?
-[19Dec2024 22:43:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> estan volando
-[19Dec2024 22:43:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja asi me paso ayer
-[19Dec2024 22:43:36.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> pero los tengo encima?
-[19Dec2024 22:43:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si xd
-[19Dec2024 22:44:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no tengo pa´cama
-[19Dec2024 22:44:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ahorita me salgo
-[19Dec2024 22:44:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no tenemos ni madera
-[19Dec2024 22:44:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Empanada: Teleported Empanada to Asso0912]
-[19Dec2024 22:44:54.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanada lost connection: Disconnected
-[19Dec2024 22:44:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada left the game
-[19Dec2024 22:45:03.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
-[19Dec2024 22:45:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
-[19Dec2024 22:56:32.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:40375] logged in with entity id 4841 at (-52.5, 111.0, -8.5)
-[19Dec2024 22:56:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
-[19Dec2024 22:56:33.030] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
-[19Dec2024 22:58:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jajaja alta skin
-[19Dec2024 22:58:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000]
-[19Dec2024 22:58:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ah ya andas
-[19Dec2024 22:58:56.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si
-[19Dec2024 22:59:33.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Cover Me with Diamonds]
-[19Dec2024 22:59:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Suit Up]
-[19Dec2024 23:00:00.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Isn't It Iron Pick]
-[19Dec2024 23:00:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Amateur Archaeologist]
-[19Dec2024 23:00:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ten
-[19Dec2024 23:00:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> gracias
-[19Dec2024 23:00:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como se ponia? xd
-[19Dec2024 23:00:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> dale
-[19Dec2024 23:00:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a la ruedita que aparece a lado de tu inventario xd
-[19Dec2024 23:00:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y hay una madre que dice mochila
-[19Dec2024 23:01:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> en la ruedita que esta a lado de tu cabeza
-[19Dec2024 23:01:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no se podia asignar a una letra? xd
-[19Dec2024 23:01:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> para?
-[19Dec2024 23:01:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a ya lo vi xd
-[19Dec2024 23:02:11.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y ahora como la abro xd
-[19Dec2024 23:02:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> b
-[19Dec2024 23:02:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> waos
-[19Dec2024 23:02:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> deja lo cambio tengo ahi lo de los tp xd
-[19Dec2024 23:03:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y se le pueden poner mejoras
-[19Dec2024 23:03:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pero eso ya despues xd
-[19Dec2024 23:04:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> sipi eso ya sabia
-[19Dec2024 23:04:55.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
-[19Dec2024 23:04:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eran dos bloques de oro xd
-[19Dec2024 23:05:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> lo necesite para la mochila xd
-[19Dec2024 23:05:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xddddddd
-[19Dec2024 23:05:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Acquire Hardware]
-[19Dec2024 23:06:06.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> wey
-[19Dec2024 23:06:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> te tengo
-[19Dec2024 23:06:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> un aperitivo
-[19Dec2024 23:06:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> son gusanitos
-[19Dec2024 23:06:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya se yo te los di xd
-[19Dec2024 23:06:44.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y el hierro
-[19Dec2024 23:06:52.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> yo lo tengo
-[19Dec2024 23:07:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi te deje 2 stacks de pan
-[19Dec2024 23:08:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> mis dos stacks de pan
-[19Dec2024 23:08:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> va lag xd
-[19Dec2024 23:08:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
-[19Dec2024 23:08:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> hay una mejora bien vrgas
-[19Dec2024 23:08:59.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que te cambia la herramienta segun lo que este picando xd
-[19Dec2024 23:09:11.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
-[19Dec2024 23:09:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ay ptm
-[19Dec2024 23:09:57.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me espanto la cabeza del creeper
-[19Dec2024 23:09:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
-[19Dec2024 23:10:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Sweet Dreams]
-[19Dec2024 23:10:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eslipin
-[19Dec2024 23:12:25.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
-[19Dec2024 23:12:54.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> donde estaba lo del fov
-[19Dec2024 23:13:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> D:'
-[19Dec2024 23:13:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> para lo de la camara xd
-[19Dec2024 23:13:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> para hacerla mas amlpia o mas corta
-[19Dec2024 23:13:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> el campo de vision?
-[19Dec2024 23:14:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> sacate alaberga
-[19Dec2024 23:14:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que
-[19Dec2024 23:15:38.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya lo encontre xd
-[19Dec2024 23:15:43.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> oedazi banquete tu
-[19Dec2024 23:15:48.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Stone Age]
-[19Dec2024 23:15:51.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> quesillo con chimichurri
-[19Dec2024 23:15:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ontas
-[19Dec2024 23:16:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> picando
-[19Dec2024 23:16:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ven xd
-[19Dec2024 23:16:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
-[19Dec2024 23:16:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a
-[19Dec2024 23:16:18.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> dime primero vrgva
-[19Dec2024 23:16:56.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Monster Hunter]
-[19Dec2024 23:16:57.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=94, z=-14} BlockPos{x=-61, y=50, z=10}
-[19Dec2024 23:17:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja me da risa que andas recibiendo logros
-[19Dec2024 23:17:07.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=94, z=-14} BlockPos{x=-58, y=52, z=10}
-[19Dec2024 23:17:13.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que mal va
-[19Dec2024 23:17:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a caray
-[19Dec2024 23:17:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> me quito 10 antorchas y ninguna se pusi xd
-[19Dec2024 23:17:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> como asi
-[19Dec2024 23:17:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> porque mi espada los quema xd
-[19Dec2024 23:17:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> vez xd
-[19Dec2024 23:17:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tu puño creo xd
-[19Dec2024 23:18:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a xd
-[19Dec2024 23:18:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> agarra tu las antorchas a mi no me deja ponerlas xd
-[19Dec2024 23:18:20.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eh cielto
-[19Dec2024 23:18:25.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=94, z=-14} BlockPos{x=-63, y=50, z=9}
-[19Dec2024 23:18:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Not Today, Thank You]
-[19Dec2024 23:20:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tenemos redstone?
-[19Dec2024 23:20:35.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
-[19Dec2024 23:20:50.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como me duele la mano xd
-[19Dec2024 23:21:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> dame chance xd
-[19Dec2024 23:21:16.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y si cambio a la lap de mi hermano?
-[19Dec2024 23:21:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como veas
-[19Dec2024 23:21:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> peor mal del qlo el server xd
-[19Dec2024 23:21:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> lo reinicio xd
-[19Dec2024 23:21:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aguanta deja salgo
-[19Dec2024 23:22:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> de donde
-[19Dec2024 23:22:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> de la cueva xd
-[19Dec2024 23:22:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a xd
-[19Dec2024 23:22:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -63.500000, 112.500000, -32.500000]
-[19Dec2024 23:22:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a canijo
-[19Dec2024 23:22:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no me deja
-[19Dec2024 23:22:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
-[19Dec2024 23:22:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ah cierto
-[19Dec2024 23:22:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaj
-[19Dec2024 23:22:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ptm me asuste xd
-[19Dec2024 23:22:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no eres op
-[19Dec2024 23:22:51.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> admin
-[19Dec2024 23:23:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made InFuture a server operator
-[19Dec2024 23:23:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya xd
-[19Dec2024 23:23:28.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
-[19Dec2024 23:23:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
-[19Dec2024 23:23:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xddddddddddddddddddddd
-[19Dec2024 23:23:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -59.500000, 112.500000, -40.500000]
-[19Dec2024 23:24:01.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
-[19Dec2024 23:24:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
+[19Dec2024 23:42:52.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[19Dec2024 23:42:52.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
+[19Dec2024 23:43:00.142] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Dec2024 23:43:07.931] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[19Dec2024 23:43:07.932] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx-pruebs/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[19Dec2024 23:43:10.055] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[19Dec2024 23:43:10.056] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[19Dec2024 23:43:11.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[19Dec2024 23:43:11.771] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[19Dec2024 23:43:11.836] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[19Dec2024 23:43:11.855] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[19Dec2024 23:43:11.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[19Dec2024 23:43:11.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[19Dec2024 23:43:11.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[19Dec2024 23:43:11.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[19Dec2024 23:43:11.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 58 recipes
+[19Dec2024 23:43:12.255] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
+[19Dec2024 23:43:12.285] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5012 advancements
+[19Dec2024 23:43:12.340] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[19Dec2024 23:43:12.353] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
+[19Dec2024 23:43:12.364] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[19Dec2024 23:43:12.421] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[19Dec2024 23:43:12.422] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[19Dec2024 23:43:12.422] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[19Dec2024 23:43:12.423] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[19Dec2024 23:43:12.426] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[19Dec2024 23:43:12.426] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[19Dec2024 23:43:12.427] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[19Dec2024 23:43:12.427] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[19Dec2024 23:43:12.428] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[19Dec2024 23:43:12.459] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[19Dec2024 23:43:19.710] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
+[19Dec2024 23:43:20.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Dec2024 23:43:20.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Dec2024 23:43:20.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Dec2024 23:43:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Dec2024 23:43:20.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Dec2024 23:43:20.416] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Dec2024 23:43:20.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Dec2024 23:43:20.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Dec2024 23:43:20.504] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Dec2024 23:43:20.504] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Dec2024 23:43:20.639] [Server thread/INFO] [Framework/]: Loading server configs...
+[19Dec2024 23:43:20.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Dec2024 23:43:27.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Dec2024 23:43:32.187] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.286] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.298] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.334] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.352] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.370] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.392] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.413] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.422] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.423] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 23:43:32.729] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[19Dec2024 23:43:33.229] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[19Dec2024 23:43:33.876] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6148 ms
+[19Dec2024 23:43:33.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.361s)! For help, type "help"
+[19Dec2024 23:43:33.930] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Dec2024 23:43:33.939] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[19Dec2024 23:44:43.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[19Dec2024 23:44:44.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:36411] logged in with entity id 267 at (-59.7936820532052, 112.0, -31.816069568005695)
+[19Dec2024 23:44:44.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[19Dec2024 23:44:44.429] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[19Dec2024 23:45:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture was slain by Zombie
+[19Dec2024 23:45:14.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InFuture lost connection: Timed out
+[19Dec2024 23:45:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture left the game
+[19Dec2024 23:46:20.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.235.166.9:56909] logged in with entity id 339 at (-61.72783376369285, 112.0, -25.143718422016462)
+[19Dec2024 23:46:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
+[19Dec2024 23:46:21.029] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
+[19Dec2024 23:46:21.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ce0766e[id=<null>,name=InFuture,properties={},legacy=false] (/127.240.154.25:34197) lost connection: Disconnected
+[19Dec2024 23:46:40.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 burned to death
+[19Dec2024 23:47:24.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:33655] logged in with entity id 453 at (-59.7936820532052, 112.0, -31.816069568005695)
+[19Dec2024 23:47:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[19Dec2024 23:47:24.967] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[19Dec2024 23:47:36.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 lost connection: Timed out
+[19Dec2024 23:47:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 left the game
+[19Dec2024 23:48:01.308] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 23:48:01.308] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Dec2024 23:48:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture was slain by Corpse Maggot
+[19Dec2024 23:48:25.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InFuture lost connection: Timed out
+[19Dec2024 23:48:25.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture left the game
+[19Dec2024 23:48:41.890] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@397400e7[id=<null>,name=Asso0912,properties={},legacy=false] (/127.235.166.9:36337) lost connection: Disconnected
+[19Dec2024 23:49:29.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:35505] logged in with entity id 530 at (-61.25149820477319, 112.5625, -26.544520488316046)
+[19Dec2024 23:49:29.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[19Dec2024 23:49:29.426] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[19Dec2024 23:49:34.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.235.166.9:44709] logged in with entity id 531 at (-63.11823680708308, 112.0, -24.756025777932027)
+[19Dec2024 23:49:34.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
+[19Dec2024 23:49:34.647] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
+[19Dec2024 23:50:08.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 23:50:08.244] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Dec2024 23:50:18.290] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 23:50:18.290] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Dec2024 23:50:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me va lag xd
+[19Dec2024 23:50:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como hacen ruido estos cabrones
+[19Dec2024 23:50:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pero por que me diste una flow
+[19Dec2024 23:51:03.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> en que momento xd
+[19Dec2024 23:51:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mac
+[19Dec2024 23:51:34.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y el maicra
+[19Dec2024 23:51:39.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> es igual a felicidad
+[19Dec2024 23:51:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> sex
+[19Dec2024 23:53:15.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ontas
+[19Dec2024 23:53:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pueblito
+[19Dec2024 23:53:23.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que lag xd
+[19Dec2024 23:53:33.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 moved too quickly! -10.036804986210797,0.49520087700592796,-0.8701202061285827
+[19Dec2024 23:53:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> wey
+[19Dec2024 23:53:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ven
+[19Dec2024 23:53:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[19Dec2024 23:54:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> esperate
+[19Dec2024 23:54:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> son los shibas
+[19Dec2024 23:54:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aguantame
+[19Dec2024 23:54:21.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> es que hay un chngo de hierro
+[19Dec2024 23:54:34.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y mi pico
+[19Dec2024 23:54:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tienes los huesos?
+[19Dec2024 23:54:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya te lo di
+[19Dec2024 23:54:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -65.500000, 112.500000, -34.500000]
+[19Dec2024 23:54:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y mis huesos
+[19Dec2024 23:54:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> en elc ofre
+[19Dec2024 23:55:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no seas mentiroso solo hay 9
+[19Dec2024 23:55:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[19Dec2024 23:55:25.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> habian como 64
+[19Dec2024 23:55:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si
+[19Dec2024 23:55:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a los tengo yo
+[19Dec2024 23:55:31.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[19Dec2024 23:55:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> xd
+[19Dec2024 23:56:06.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Best Friends Forever]
+[19Dec2024 23:56:11.325] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[19Dec2024 23:56:11.326] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 9
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: xaero.map.events.CommonEventsForge@6cac39ae handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class com.aetherteam.aether.event.listeners.EntityListener onRiderTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class com.aetherteam.aether.event.listeners.DimensionListener onPlayerTraveling(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: com.corosus.watut.loader.forge.EventHandlerForge@2d55e420 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@a2292c5 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: xaero.common.events.CommonEventsForge@662047e handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.silentchaos512.scalinghealth.event.PlayerBonusRegenHandler onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.silentchaos512.scalinghealth.event.CommonEvents playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class twilightforest.TFTickHandler playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@613430f5
+		15: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@2da2a79e
+		16: ASM: com.mrcrayfish.framework.event.ForgeEvents@65a69bc8 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@741ee55b
+		18: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@25e909bf
+		19: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@659a366f
+		20: ASM: class net.silentchaos512.lib.util.EntityHelper onWorldTick(Lnet/minecraftforge/event/TickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.WarningSoundProcedure.execute(WarningSoundProcedure.java:47)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.WarningSoundProcedure.onPlayerTick(WarningSoundProcedure.java:28)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.__WarningSoundProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19Dec2024 23:56:11.362] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.240.154.25:35505
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.borninchaosv.procedures.WarningSoundProcedure.execute(WarningSoundProcedure.java:47) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.mcreator.borninchaosv.procedures.WarningSoundProcedure.onPlayerTick(WarningSoundProcedure.java:28) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.mcreator.borninchaosv.procedures.__WarningSoundProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	... 9 more
+[19Dec2024 23:56:11.376] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[19Dec2024 23:56:11.376] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 9
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: xaero.map.events.CommonEventsForge@6cac39ae handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class com.aetherteam.aether.event.listeners.EntityListener onRiderTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class com.aetherteam.aether.event.listeners.DimensionListener onPlayerTraveling(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: com.corosus.watut.loader.forge.EventHandlerForge@2d55e420 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@a2292c5 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: xaero.common.events.CommonEventsForge@662047e handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.silentchaos512.scalinghealth.event.PlayerBonusRegenHandler onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.silentchaos512.scalinghealth.event.CommonEvents playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class twilightforest.TFTickHandler playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@613430f5
+		15: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@2da2a79e
+		16: ASM: com.mrcrayfish.framework.event.ForgeEvents@65a69bc8 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@741ee55b
+		18: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@25e909bf
+		19: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007477d4b43060@659a366f
+		20: ASM: class net.silentchaos512.lib.util.EntityHelper onWorldTick(Lnet/minecraftforge/event/TickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.WarningSoundProcedure.execute(WarningSoundProcedure.java:47)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.WarningSoundProcedure.onPlayerTick(WarningSoundProcedure.java:28)
+	at TRANSFORMER/born_in_chaos_v1@1.4/net.mcreator.borninchaosv.procedures.__WarningSoundProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19Dec2024 23:56:11.400] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.235.166.9:44709
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.borninchaosv.procedures.WarningSoundProcedure.execute(WarningSoundProcedure.java:47) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.mcreator.borninchaosv.procedures.WarningSoundProcedure.onPlayerTick(WarningSoundProcedure.java:28) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.mcreator.borninchaosv.procedures.__WarningSoundProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[born_in_chaos_%5BForge%5D1.20.1_1.5_halloween_event.jar%23169!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	... 9 more
+[19Dec2024 23:56:11.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InFuture lost connection: Internal server error
+[19Dec2024 23:56:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture left the game
+[19Dec2024 23:56:11.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 lost connection: Internal server error
+[19Dec2024 23:56:11.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 left the game
+[19Dec2024 23:56:33.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 23:56:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 23:56:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 23:56:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 23:56:34.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 23:56:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[19Dec2024 23:56:34.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[19Dec2024 23:56:34.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[19Dec2024 23:56:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[19Dec2024 23:56:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[19Dec2024 23:56:34.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[19Dec2024 23:56:34.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Dec2024 23:56:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[19Dec2024 23:56:34.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[19Dec2024 23:56:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Dec2024 23:56:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[19Dec2024 23:56:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 23:56:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[19Dec2024 23:56:34.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[19Dec2024 23:56:34.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[19Dec2024 23:56:34.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 23:56:34.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[19Dec2024 23:56:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[19Dec2024 23:56:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[19Dec2024 23:56:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[19Dec2024 23:56:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 23:56:34.609] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Dec2024 23:56:34.611] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
