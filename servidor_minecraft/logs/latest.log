@@ -504,3 +504,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Dec2024 22:44:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada left the game
 [19Dec2024 22:45:03.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
 [19Dec2024 22:45:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[19Dec2024 22:56:32.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:40375] logged in with entity id 4841 at (-52.5, 111.0, -8.5)
+[19Dec2024 22:56:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[19Dec2024 22:56:33.030] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[19Dec2024 22:58:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jajaja alta skin
+[19Dec2024 22:58:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000]
+[19Dec2024 22:58:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ah ya andas
+[19Dec2024 22:58:56.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si
+[19Dec2024 22:59:33.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Cover Me with Diamonds]
+[19Dec2024 22:59:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Suit Up]
+[19Dec2024 23:00:00.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Isn't It Iron Pick]
+[19Dec2024 23:00:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Amateur Archaeologist]
+[19Dec2024 23:00:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ten
+[19Dec2024 23:00:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> gracias
+[19Dec2024 23:00:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como se ponia? xd
+[19Dec2024 23:00:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> dale
+[19Dec2024 23:00:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a la ruedita que aparece a lado de tu inventario xd
+[19Dec2024 23:00:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y hay una madre que dice mochila
+[19Dec2024 23:01:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> en la ruedita que esta a lado de tu cabeza
+[19Dec2024 23:01:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no se podia asignar a una letra? xd
+[19Dec2024 23:01:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> para?
+[19Dec2024 23:01:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a ya lo vi xd
+[19Dec2024 23:02:11.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y ahora como la abro xd
+[19Dec2024 23:02:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> b
+[19Dec2024 23:02:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> waos
+[19Dec2024 23:02:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> deja lo cambio tengo ahi lo de los tp xd
+[19Dec2024 23:03:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y se le pueden poner mejoras
+[19Dec2024 23:03:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pero eso ya despues xd
