@@ -125,6 +125,18 @@
     },
     "done": true
   },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2024-12-19 23:05:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2024-12-19 23:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:meadow": "2024-12-19 22:56:33 +0000",
@@ -171,6 +183,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2024-12-19 23:05:28 +0000"
     },
     "done": true
   },
@@ -240,6 +258,12 @@
     },
     "done": true
   },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2024-12-19 23:09:46 +0000"
+    },
+    "done": true
+  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2024-12-19 22:59:31 +0000"
@@ -267,6 +291,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-19 23:05:27 +0000"
     },
     "done": true
   },
