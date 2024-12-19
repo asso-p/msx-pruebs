@@ -495,3 +495,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Dec2024 22:43:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> estan volando
 [19Dec2024 22:43:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja asi me paso ayer
 [19Dec2024 22:43:36.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> pero los tengo encima?
+[19Dec2024 22:43:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si xd
+[19Dec2024 22:44:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no tengo pa´cama
+[19Dec2024 22:44:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanada> ahorita me salgo
+[19Dec2024 22:44:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no tenemos ni madera
+[19Dec2024 22:44:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Empanada: Teleported Empanada to Asso0912]
+[19Dec2024 22:44:54.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanada lost connection: Disconnected
+[19Dec2024 22:44:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanada left the game
+[19Dec2024 22:45:03.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[19Dec2024 22:45:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
