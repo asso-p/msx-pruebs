@@ -53,9 +53,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 23:10:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-19 23:16:34 +0000"
     },
     "done": true
   },
@@ -64,6 +76,13 @@
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-19 23:18:44 +0000",
+      "minecraft:zombie": "2024-12-19 23:16:56 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_blue": {
     "criteria": {
@@ -80,6 +99,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 23:18:38 +0000"
     },
     "done": true
   },
@@ -131,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-19 23:16:56 +0000"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2024-12-19 23:05:27 +0000"
@@ -139,6 +170,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-19 23:11:17 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 23:16:26 +0000",
       "minecraft:meadow": "2024-12-19 22:56:33 +0000",
       "minecraft:plains": "2024-12-19 22:59:15 +0000"
     },
@@ -186,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-19 23:19:10 +0000"
+    },
+    "done": false
+  },
   "beautify:trellis": {
     "criteria": {
       "requirement": "2024-12-19 23:05:28 +0000"
@@ -195,6 +234,18 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-19 22:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-19 23:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-19 23:19:10 +0000"
     },
     "done": true
   },
