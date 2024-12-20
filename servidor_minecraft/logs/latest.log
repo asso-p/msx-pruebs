@@ -580,3 +580,77 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 22:28:47.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si normal o empotrada
 [20Dec2024 22:28:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> la de crafteo
 [20Dec2024 22:28:57.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-46, z=20} BlockPos{x=-25, y=-46, z=20}
+[20Dec2024 22:29:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a ptm
+[20Dec2024 22:29:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya me qude sin roca
+[20Dec2024 22:29:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> el warden aparecia a la tercera que se te ponia todo negro no?
+[20Dec2024 22:29:53.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> creo
+[20Dec2024 22:29:55.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> por?
+[20Dec2024 22:30:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nomas
+[20Dec2024 22:30:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> preparo el tp?
+[20Dec2024 22:30:23.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[20Dec2024 22:31:05.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-49, y=-53, z=47} BlockPos{x=-50, y=-53, z=47}
+[20Dec2024 22:31:40.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 22:31:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ojala tener toque de seda xd
+[20Dec2024 22:31:56.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=-51, z=5} BlockPos{x=-37, y=-50, z=4}
+[20Dec2024 22:31:57.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=-51, z=5} BlockPos{x=-37, y=-50, z=4}
+[20Dec2024 22:32:35.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=-52, z=14} BlockPos{x=-44, y=-52, z=15}
+[20Dec2024 22:32:54.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=-50, z=4} BlockPos{x=-52, y=-51, z=3}
+[20Dec2024 22:32:54.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=-51, z=5} BlockPos{x=-50, y=-49, z=4}
+[20Dec2024 22:33:07.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:07.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=-51, z=8} BlockPos{x=-45, y=-50, z=8}
+[20Dec2024 22:33:17.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=-47, z=5} BlockPos{x=-44, y=-46, z=6}
+[20Dec2024 22:34:19.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Enchanter]
+[20Dec2024 22:34:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> vaya mrd
+[20Dec2024 22:34:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> por?
+[20Dec2024 22:34:40.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> eficiencia 1
+[20Dec2024 22:34:49.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> cuanto hierro
+[20Dec2024 22:34:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> vienes y me ayudas? xd
+[20Dec2024 22:34:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me hubiera esperado al level 30
+[20Dec2024 22:34:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 22:35:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aqui llegas al level 30
+[20Dec2024 22:35:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me prestas tu azada un momentin?
+[20Dec2024 22:35:19.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=-54, z=24} BlockPos{x=-45, y=-55, z=24}
+[20Dec2024 22:35:21.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=-54, z=25} BlockPos{x=-42, y=-54, z=24}
+[20Dec2024 22:35:21.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=-54, z=26} BlockPos{x=-43, y=-55, z=27}
+[20Dec2024 22:35:24.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-53, z=24} BlockPos{x=-38, y=-54, z=25}
+[20Dec2024 22:35:24.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-53, z=24} BlockPos{x=-38, y=-54, z=25}
+[20Dec2024 22:35:24.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:24.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:24.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:24.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:24.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:24.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:25.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=-54, z=25} BlockPos{x=-39, y=-54, z=25}
+[20Dec2024 22:35:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> luis?
+[20Dec2024 22:35:53.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> donde no esta iluminado no vayas
+[20Dec2024 22:35:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> hay uno que lo spawnea el warden
+[20Dec2024 22:36:05.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y ya me trone una chance xd
+[20Dec2024 22:36:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> wey
+[20Dec2024 22:36:21.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> cyuydado vrga
+[20Dec2024 22:36:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> regresate
+[20Dec2024 22:36:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ven sigueme
+[20Dec2024 22:36:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya lo viste done esta esa madre?
+[20Dec2024 22:36:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> quita eso primero
+[20Dec2024 22:36:49.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> con cuidado
+[20Dec2024 22:36:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> en la siguiente aparece el warden
+[20Dec2024 22:37:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> sptm
+[20Dec2024 22:37:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> hasta el padre nuestro en latin dije
+[20Dec2024 22:37:09.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> lo quito yo si quieres
+[20Dec2024 22:37:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> nah
+[20Dec2024 22:37:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> lo quito yo
+[20Dec2024 22:37:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ponle huevo
+[20Dec2024 22:38:01.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=-46, z=50} BlockPos{x=-45, y=-45, z=51}
+[20Dec2024 22:38:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ontas
+[20Dec2024 22:38:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> picando la gran mena de hierro
+[20Dec2024 22:38:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> lo quitaste?
+[20Dec2024 22:38:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no xd
+[20Dec2024 22:38:53.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> prepara el tipi?
+[20Dec2024 22:39:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que me dijiste que lo invoca?
+[20Dec2024 22:39:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> lo quito yo
+[20Dec2024 22:39:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que quitaba xd
+[20Dec2024 22:39:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tu repara el tipi
