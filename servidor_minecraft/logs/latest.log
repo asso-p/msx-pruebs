@@ -721,3 +721,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 22:48:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajajaja
 [20Dec2024 22:49:27.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-50, z=-36} BlockPos{x=-57, y=-50, z=-37}
 [20Dec2024 22:49:27.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=-50, z=-36} BlockPos{x=-56, y=-50, z=-35}
+[20Dec2024 22:51:42.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-49, z=-64} BlockPos{x=-56, y=-49, z=-65}
+[20Dec2024 22:51:42.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-49, z=-63} BlockPos{x=-55, y=-49, z=-64}
+[20Dec2024 22:51:42.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-49, z=-63} BlockPos{x=-55, y=-49, z=-64}
+[20Dec2024 22:51:42.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-49, z=-63} BlockPos{x=-55, y=-49, z=-64}
+[20Dec2024 22:51:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> sera que meto el mod para guardar xp?
+[20Dec2024 22:51:59.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[20Dec2024 22:52:10.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> hasta donde subi solo para quitar el aguia xd
+[20Dec2024 22:52:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> al saber
+[20Dec2024 22:52:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 22:53:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> onde vrga andas
+[20Dec2024 22:53:19.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aquiw
+[20Dec2024 22:53:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Source of Evil]
+[20Dec2024 22:54:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> porqye bo se qyuta el agua
+[20Dec2024 22:54:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no se
+[20Dec2024 22:54:38.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ontas
+[20Dec2024 22:54:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 22:54:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ten la azada xd
+[20Dec2024 22:54:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tienes algo?
+[20Dec2024 22:55:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya me voy a la house
+[20Dec2024 22:55:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> hierro
+[20Dec2024 22:55:08.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> lo llevo?
+[20Dec2024 22:55:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira xd
+[20Dec2024 22:55:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Source of Evil]
+[20Dec2024 22:55:33.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como sacaste eso
+[20Dec2024 22:55:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mate a un wey largo y negro
+[20Dec2024 22:55:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> enderman?
+[20Dec2024 22:55:53.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no
+[20Dec2024 22:55:56.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=-51, z=-4} BlockPos{x=-52, y=-52, z=-5}
+[20Dec2024 22:55:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 22:56:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ptm
+[20Dec2024 22:56:02.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> nevo
+[20Dec2024 22:56:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
+[20Dec2024 22:56:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como asi
+[20Dec2024 22:57:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 22:57:50.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-59, y=-25, z=0} BlockPos{x=-59, y=-25, z=2}
+[20Dec2024 22:57:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi si puedes jalate carbon
+[20Dec2024 22:58:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> bueno
+[20Dec2024 22:58:11.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-69, y=-24, z=6} BlockPos{x=-68, y=-25, z=7}
+[20Dec2024 22:58:13.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=-24, z=2} BlockPos{x=-67, y=-25, z=2}
+[20Dec2024 22:59:09.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Dark Forging]
+[20Dec2024 22:59:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja
+[20Dec2024 22:59:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> solo tenemos 5 lingotes
+[20Dec2024 22:59:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tepe

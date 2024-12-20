@@ -636,5 +636,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-20 22:47:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-20 22:53:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
