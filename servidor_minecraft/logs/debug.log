@@ -6102,3 +6102,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 22:59:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja
 [20Dec2024 22:59:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> solo tenemos 5 lingotes
 [20Dec2024 22:59:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tepe
+[20Dec2024 22:59:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture was slain by Restless Spirit
+[20Dec2024 22:59:48.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
+[20Dec2024 22:59:50.142] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 22:59:50.142] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Dec2024 22:59:50.185] [Server thread/DEBUG] [twilightforest/]: Player InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675) respawned and received items held in storage
+[20Dec2024 22:59:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[20Dec2024 22:59:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> xd
+[20Dec2024 22:59:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -150.500000, 160.500000, 40.500000]
+[20Dec2024 23:00:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y mis cosas
+[20Dec2024 23:00:09.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:00:09.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:00:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> donde te moriste xd?
+[20Dec2024 23:00:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:00:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> segun ahi en la ca
+[20Dec2024 23:01:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> fortuna 3
+[20Dec2024 23:01:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a
+[20Dec2024 23:01:24.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> encanta los libros xd
+[20Dec2024 23:01:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -57.500000, 112.500000, -37.500000]
+[20Dec2024 23:01:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture fell from a high place
+[20Dec2024 23:01:53.659] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 23:01:53.659] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Dec2024 23:01:53.712] [Server thread/DEBUG] [twilightforest/]: Player InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675) respawned and received items held in storage
+[20Dec2024 23:01:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -78.500000, 67.500000, -22.500000]
+[20Dec2024 23:02:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tegno 21 niveles xd
+[20Dec2024 23:02:28.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> WEY
+[20Dec2024 23:02:28.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> yo tenia 25
+[20Dec2024 23:02:31.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eu
+[20Dec2024 23:02:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 23:02:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> aun no tienes tus cosas D:?
+[20Dec2024 23:02:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[20Dec2024 23:03:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero que querias
+[20Dec2024 23:04:49.359] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by InFuture
+[20Dec2024 23:04:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> sube dos bloques xd
+[20Dec2024 23:05:06.958] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{InFuture})
+[20Dec2024 23:05:09.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:05:09.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:05:18.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y ese pico?
+[20Dec2024 23:05:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me lo encante
+[20Dec2024 23:05:34.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no lo quieres xd?
+[20Dec2024 23:05:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a xd
+[20Dec2024 23:05:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tu andas en mina mas que yo xd
+[20Dec2024 23:05:46.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[20Dec2024 23:05:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> uy
+[20Dec2024 23:06:00.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:06:02.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> mejor dame antorchas
+[20Dec2024 23:07:47.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=-21, z=20} BlockPos{x=-47, y=-21, z=19}
+[20Dec2024 23:07:49.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=-21, z=24} BlockPos{x=-48, y=-22, z=24}
+[20Dec2024 23:07:49.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=-21, z=24} BlockPos{x=-48, y=-22, z=24}
+[20Dec2024 23:07:54.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> vamo al nether?
+[20Dec2024 23:08:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nose
+[20Dec2024 23:09:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero si me das antorchas'
+[20Dec2024 23:09:19.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=-23, z=25} BlockPos{x=-55, y=-24, z=25}
+[20Dec2024 23:09:23.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=-24, z=33} BlockPos{x=-56, y=-25, z=31}
+[20Dec2024 23:09:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> voy
