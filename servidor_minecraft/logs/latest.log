@@ -834,3 +834,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 23:16:31.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-79, y=-23, z=-29} BlockPos{x=-78, y=-24, z=-31}
 [20Dec2024 23:16:36.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-27, z=-30} BlockPos{x=-75, y=-27, z=-30}
 [20Dec2024 23:18:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
+[20Dec2024 23:20:09.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=-28, z=-51} BlockPos{x=-71, y=-28, z=-51}
+[20Dec2024 23:20:09.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=-28, z=-51} BlockPos{x=-71, y=-28, z=-51}
+[20Dec2024 23:20:43.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=-32, z=-58} BlockPos{x=-72, y=-33, z=-59}
+[20Dec2024 23:20:58.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=-32, z=-57} BlockPos{x=-67, y=-32, z=-56}
+[20Dec2024 23:21:06.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=-32, z=-54} BlockPos{x=-61, y=-32, z=-53}
+[20Dec2024 23:21:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> wey te acuerdas que me dijsite sobre el golazo de son?
+[20Dec2024 23:21:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y yo que le voy al united
+[20Dec2024 23:21:34.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nos tiene de son
+[20Dec2024 23:21:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> captas?
+[20Dec2024 23:21:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaja
+[20Dec2024 23:22:51.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=-35, z=-35} BlockPos{x=-44, y=-36, z=-35}
+[20Dec2024 23:22:58.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=-40, z=-37} BlockPos{x=-48, y=-41, z=-37}
+[20Dec2024 23:22:58.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=-40, z=-37} BlockPos{x=-48, y=-41, z=-37}
+[20Dec2024 23:24:04.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to 4.500000, 64.500000, 82.500000]
+[20Dec2024 23:24:11.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=-46, z=-59} BlockPos{x=-42, y=-47, z=-60}
+[20Dec2024 23:24:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd no tengo armor
+[20Dec2024 23:25:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> yo tengo a 2 hits los ppantalones
+[20Dec2024 23:25:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> yo ni tenho
+[20Dec2024 23:25:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:26:15.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Life turned out to be a comedy]
+[20Dec2024 23:26:29.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-59, y=-47, z=-67} BlockPos{x=-59, y=-48, z=-67}
+[20Dec2024 23:27:02.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-44, z=-78} BlockPos{x=-75, y=-44, z=-79}
+[20Dec2024 23:27:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -259.500000, 112.500000, -93.500000]
+[20Dec2024 23:27:19.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-45, z=-75} BlockPos{x=-70, y=-46, z=-73}
+[20Dec2024 23:27:19.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-45, z=-75} BlockPos{x=-70, y=-46, z=-73}
+[20Dec2024 23:27:19.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-45, z=-75} BlockPos{x=-70, y=-46, z=-73}
+[20Dec2024 23:27:23.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=-44, z=-81} BlockPos{x=-74, y=-44, z=-80}
+[20Dec2024 23:27:23.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=-44, z=-81} BlockPos{x=-74, y=-44, z=-80}
+[20Dec2024 23:27:23.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=-44, z=-81} BlockPos{x=-74, y=-44, z=-80}
+[20Dec2024 23:27:56.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-38, z=-55} BlockPos{x=-66, y=-39, z=-55}
+[20Dec2024 23:27:56.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-38, z=-55} BlockPos{x=-66, y=-39, z=-55}
+[20Dec2024 23:28:01.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:28:11.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=-44, z=-50} BlockPos{x=-59, y=-44, z=-50}
+[20Dec2024 23:28:12.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=-46, z=-50} BlockPos{x=-58, y=-46, z=-51}
+[20Dec2024 23:28:33.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=-45, z=-33} BlockPos{x=-71, y=-46, z=-34}
+[20Dec2024 23:28:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:28:43.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=-40, z=-34} BlockPos{x=-73, y=-42, z=-33}
+[20Dec2024 23:28:45.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=-38, z=-34} BlockPos{x=-75, y=-39, z=-34}
+[20Dec2024 23:29:19.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
