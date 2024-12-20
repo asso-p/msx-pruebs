@@ -605,18 +605,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "skeleton_creeper": "2024-12-20 03:56:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2024-12-20 04:38:58 +0000"
-    },
-    "done": true
-  },
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:sandwich": "2024-12-20 03:27:25 +0000"
@@ -626,6 +614,18 @@
   "bakery:main/eat_sandwich": {
     "criteria": {
       "eat_sandwich": "2024-12-20 03:28:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-20 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-20 04:38:58 +0000"
     },
     "done": true
   },
