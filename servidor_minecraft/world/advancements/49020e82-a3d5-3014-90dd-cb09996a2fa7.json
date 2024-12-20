@@ -497,5 +497,137 @@
     },
     "done": false
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-20 00:50:52 +0000"
+    },
+    "done": true
+  },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2024-12-20 01:00:53 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-20 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2024-12-20 01:21:32 +0000",
+      "yellow": "2024-12-20 01:31:43 +0000"
+    },
+    "done": false
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2024-12-20 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-20 01:36:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-20 01:40:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-20 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2024-12-20 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-20 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-12-20 02:11:22 +0000",
+      "canopy_planks": "2024-12-20 01:57:58 +0000",
+      "twilight_oak_log": "2024-12-20 02:11:14 +0000",
+      "twilight_oak_sapling": "2024-12-20 02:10:39 +0000",
+      "liveroot": "2024-12-20 02:44:20 +0000",
+      "canopy_log": "2024-12-20 01:57:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-12-20 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-20 02:02:18 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2024-12-20 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-12-20 02:42:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-20 02:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-20 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-20 04:38:58 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:sandwich": "2024-12-20 03:27:25 +0000"
+    },
+    "done": false
+  },
+  "bakery:main/eat_sandwich": {
+    "criteria": {
+      "eat_sandwich": "2024-12-20 03:28:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

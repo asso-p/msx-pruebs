@@ -105,6 +105,8 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-20 00:37:40 +0000",
       "minecraft:cherry_grove": "2024-12-19 23:11:17 +0000",
+      "minecraft:river": "2024-12-20 01:19:59 +0000",
+      "minecraft:stony_shore": "2024-12-20 01:26:07 +0000",
       "minecraft:dripstone_caves": "2024-12-19 23:16:26 +0000",
       "minecraft:frozen_peaks": "2024-12-20 00:25:50 +0000",
       "minecraft:deep_dark": "2024-12-20 00:27:56 +0000",
@@ -327,6 +329,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-19 23:18:44 +0000",
       "minecraft:spider": "2024-12-20 00:26:56 +0000",
+      "minecraft:witch": "2024-12-20 02:22:58 +0000",
+      "minecraft:silverfish": "2024-12-20 01:36:21 +0000",
       "minecraft:zombie": "2024-12-19 23:16:56 +0000"
     },
     "done": false
@@ -345,7 +349,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-19 23:19:10 +0000"
+      "bread": "2024-12-19 23:19:10 +0000",
+      "golden_apple": "2024-12-20 04:33:58 +0000"
     },
     "done": false
   },
@@ -361,15 +366,144 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-20 00:11:00 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2024-12-20 00:26:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "golden_knife": "2024-12-20 00:11:00 +0000"
+      "avoid_vibration": "2024-12-20 00:46:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2024-12-20 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-20 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-20 01:45:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-20 01:49:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2024-12-20 01:50:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-20 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-20 02:02:18 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2024-12-20 02:37:41 +0000",
+      "twilight_oak_log": "2024-12-20 02:03:10 +0000",
+      "liveroot": "2024-12-20 02:39:03 +0000",
+      "canopy_log": "2024-12-20 02:37:37 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2024-12-20 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2024-12-20 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-20 02:45:16 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:sandwich": "2024-12-20 03:27:59 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-20 04:39:02 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-12-20 04:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-20 03:07:20 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/eat_sandwich": {
+    "criteria": {
+      "eat_sandwich": "2024-12-20 03:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-20 03:21:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-20 03:59:05 +0000"
     },
     "done": true
   },
