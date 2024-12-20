@@ -927,3 +927,96 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 23:39:01.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=-47, z=-106} BlockPos{x=3, y=-48, z=-108}
 [20Dec2024 23:39:18.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=-52, z=-120} BlockPos{x=-7, y=-53, z=-119}
 [20Dec2024 23:39:44.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=-48, z=-117} BlockPos{x=-22, y=-48, z=-118}
+[20Dec2024 23:40:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -340.500000, 85.500000, -458.500000]
+[20Dec2024 23:41:13.281] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[20Dec2024 23:41:13.282] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[20Dec2024 23:41:13.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[20Dec2024 23:41:13.999] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[20Dec2024 23:41:13.999] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[20Dec2024 23:41:14.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[20Dec2024 23:41:14.110] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[20Dec2024 23:41:14.111] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[20Dec2024 23:41:35.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Dec2024 23:41:35.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Dec2024 23:41:35.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Dec2024 23:41:35.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Dec2024 23:41:36.153] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[20Dec2024 23:41:36.154] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[20Dec2024 23:41:36.154] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[20Dec2024 23:41:36.154] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[20Dec2024 23:41:36.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[20Dec2024 23:41:36.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[20Dec2024 23:41:36.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[20Dec2024 23:41:36.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[20Dec2024 23:41:36.155] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[20Dec2024 23:41:36.168] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[20Dec2024 23:41:36.168] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[20Dec2024 23:41:36.169] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[20Dec2024 23:41:36.169] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[20Dec2024 23:41:36.169] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[20Dec2024 23:41:48.839] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[20Dec2024 23:41:48.840] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[20Dec2024 23:41:48.840] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[20Dec2024 23:41:48.840] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[20Dec2024 23:41:48.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[20Dec2024 23:41:48.842] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[20Dec2024 23:41:48.842] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[20Dec2024 23:41:48.842] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[20Dec2024 23:41:51.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[20Dec2024 23:42:26.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture tried to swim in lava
+[20Dec2024 23:42:27.759] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[20Dec2024 23:42:28.065] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 23:42:28.066] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Dec2024 23:42:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> xddddddddd
+[20Dec2024 23:42:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tirame paro
+[20Dec2024 23:42:38.459] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Dec2024 23:42:38.461] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Dec2024 23:42:38.461] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Dec2024 23:42:38.462] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Dec2024 23:42:38.583] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Dec2024 23:42:38.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Dec2024 23:42:38.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Dec2024 23:42:38.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Dec2024 23:42:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> voy
+[20Dec2024 23:42:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> es que habian diamantes
+[20Dec2024 23:43:00.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 23:43:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja y este wey
+[20Dec2024 23:43:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -146.500000, 160.500000, 39.500000]
+[20Dec2024 23:43:46.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -57.500000, 112.500000, -37.500000]
+[20Dec2024 23:43:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 23:44:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja por que llevas al burro
+[20Dec2024 23:44:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> sacrificio
+[20Dec2024 23:44:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y para hacer burro drop
+[20Dec2024 23:44:31.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 23:44:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[20Dec2024 23:45:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture fell from a high place
+[20Dec2024 23:45:23.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 23:45:23.167] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Dec2024 23:45:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> xddddddddd
+[20Dec2024 23:45:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -51.500000, -50.500000, -39.500000]
+[20Dec2024 23:45:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> donde pillaste
+[20Dec2024 23:45:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ahi
+[20Dec2024 23:45:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> onde
+[20Dec2024 23:46:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si aqui tas
+[20Dec2024 23:46:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaa este pendejo
+[20Dec2024 23:46:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ahi hay diamantes
+[20Dec2024 23:46:37.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no pndejo
+[20Dec2024 23:46:38.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[20Dec2024 23:46:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> onde
+[20Dec2024 23:46:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> casi te cae lava xd
+[20Dec2024 23:47:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tp
+[20Dec2024 23:47:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> segyri?
+[20Dec2024 23:48:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ando rodeadod e lava
+[20Dec2024 23:48:05.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no ya no
+[20Dec2024 23:49:06.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pinche putito
+[20Dec2024 23:49:57.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no solto su mazo :C
+[20Dec2024 23:50:02.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 23:50:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aqui estaban los diamantes ;c
+[20Dec2024 23:50:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahorita vengo xd
+[20Dec2024 23:50:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> okis
