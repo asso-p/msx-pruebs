@@ -465,33 +465,9 @@
     },
     "done": true
   },
-  "bakery:main/get_everything": {
-    "criteria": {
-      "bakery:sandwich": "2024-12-20 03:27:59 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2024-12-20 04:39:02 +0000"
-    },
-    "done": true
-  },
-  "beautify:frames": {
-    "criteria": {
-      "requirement": "2024-12-20 04:07:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-20 03:07:20 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/eat_sandwich": {
-    "criteria": {
-      "eat_sandwich": "2024-12-20 03:42:31 +0000"
     },
     "done": true
   },
@@ -501,9 +477,33 @@
     },
     "done": true
   },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:sandwich": "2024-12-20 03:27:59 +0000"
+    },
+    "done": false
+  },
+  "bakery:main/eat_sandwich": {
+    "criteria": {
+      "eat_sandwich": "2024-12-20 03:42:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-12-20 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-12-20 04:07:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-20 04:39:02 +0000"
     },
     "done": true
   },

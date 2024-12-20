@@ -470,3 +470,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 21:56:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
 [20Dec2024 21:57:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -152.500000, 160.500000, 49.500000]
 [20Dec2024 21:58:40.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 22:00:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[20Dec2024 22:01:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[20Dec2024 22:01:37.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.240.154.25:40057] logged in with entity id 1893 at (-153.60455486568833, 161.875, 38.605585694570806)
+[20Dec2024 22:01:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[20Dec2024 22:01:37.587] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[20Dec2024 22:02:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que haces ahi
+[20Dec2024 22:02:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
+[20Dec2024 22:02:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ahi donde
+[20Dec2024 22:03:07.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi arriba
+[20Dec2024 22:03:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> arriba donde
+[20Dec2024 22:03:30.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> como cauntos cofres es suficiente xd?
+[20Dec2024 22:03:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> con los que entren
+[20Dec2024 22:03:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> entran un putero
+[20Dec2024 22:03:58.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jaja mira el trampolin
+[20Dec2024 22:04:06.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaja
+[20Dec2024 22:04:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> por que traia mochila jaja
+[20Dec2024 22:05:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nose
+[20Dec2024 22:05:11.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> por que tenias mi madera
+[20Dec2024 22:05:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nomas
+[20Dec2024 22:05:32.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[20Dec2024 22:06:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> hay 24 cofres dobles
+[20Dec2024 22:06:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> es mucho o poco?
+[20Dec2024 22:06:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> esta bien vrgas el trampolin
+[20Dec2024 22:06:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya se
+[20Dec2024 22:07:01.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> lo quiero hacer mas grande xd
+[20Dec2024 22:07:15.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tons?
+[20Dec2024 22:07:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
+[20Dec2024 22:07:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como veas
+[20Dec2024 22:07:34.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que hacias ahi abajo xd
+[20Dec2024 22:07:39.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nose
+[20Dec2024 22:07:44.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
+[20Dec2024 22:08:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ah cierto la zona de trofeos
+[20Dec2024 22:08:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
+[20Dec2024 22:09:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
