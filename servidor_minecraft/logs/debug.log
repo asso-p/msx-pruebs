@@ -5830,3 +5830,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Dec2024 00:59:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> donde viviamos antes
 [21Dec2024 00:59:18.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> okis
 [21Dec2024 00:59:26.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tienes madera?
+[21Dec2024 01:00:58.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> luis
+[21Dec2024 01:01:02.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:01:02.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:01:32.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> wey?
+[21Dec2024 01:01:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> te puse elc ristal en tu mochila
+[21Dec2024 01:01:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> gracias
+[21Dec2024 01:01:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> luis las patas estas se cocinan o no?
+[21Dec2024 01:01:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> es que vino mi tia xd
+[21Dec2024 01:01:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si
+[21Dec2024 01:01:54.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a xd
+[21Dec2024 01:01:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a canijo
+[21Dec2024 01:01:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pero en la hoguera
+[21Dec2024 01:02:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a ya
+[21Dec2024 01:02:06.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -57.500000, 112.500000, -37.500000]
+[21Dec2024 01:02:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tienes maderiata?
+[21Dec2024 01:02:18.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
+[21Dec2024 01:02:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[21Dec2024 01:02:41.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> voy a hacer enfrente la granja de los animales xd
+[21Dec2024 01:02:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aqui nopi
+[21Dec2024 01:02:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> oki
+[21Dec2024 01:02:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero tienes madera?
+[21Dec2024 01:02:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi iba a ser la zona del botania
+[21Dec2024 01:03:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> pero mejor lo hago aca en la casa
+[21Dec2024 01:03:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> o no?
+[21Dec2024 01:03:38.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[21Dec2024 01:03:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -140.500000, 160.500000, 49.500000]
+[21Dec2024 01:03:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como veas xd
+[21Dec2024 01:03:58.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[21Dec2024 01:04:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero tienes madera?
+[21Dec2024 01:04:18.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya encontre
+[21Dec2024 01:04:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -57.500000, 112.500000, -37.500000]
+[21Dec2024 01:04:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que ganas de unas elitros
+[21Dec2024 01:05:21.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -140.500000, 160.500000, 49.500000]
+[21Dec2024 01:06:02.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:06:02.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:06:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que ptas haces xd
+[21Dec2024 01:06:49.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ten
+[21Dec2024 01:06:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> nose
+[21Dec2024 01:07:37.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[21Dec2024 01:07:48.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[21Dec2024 01:08:35.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> deja cofres para un mod diferente xd
+[21Dec2024 01:08:42.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd

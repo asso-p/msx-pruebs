@@ -520,6 +520,18 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-12-21 00:57:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2024-12-21 00:57:21 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2024-12-21 00:54:33 +0000"
