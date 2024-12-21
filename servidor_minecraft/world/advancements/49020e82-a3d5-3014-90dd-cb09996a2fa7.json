@@ -630,21 +630,9 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2024-12-20 23:27:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-20 22:34:19 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2024-12-20 23:27:26 +0000"
     },
     "done": true
   },
@@ -654,9 +642,33 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-20 22:53:22 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2024-12-20 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-20 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-20 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-20 23:27:26 +0000"
     },
     "done": true
   },
@@ -666,21 +678,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-20 22:53:22 +0000"
-    },
-    "done": true
-  },
   "botania:main/apothecary_pickup": {
     "criteria": {
       "apothecary": "2024-12-20 23:28:53 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-12-20 23:15:25 +0000"
     },
     "done": true
   },
