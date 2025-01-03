@@ -474,3 +474,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Jan2025 02:17:09.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
 [03Jan2025 02:18:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
 [03Jan2025 02:23:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[03Jan2025 02:31:58.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 moved too quickly! -0.9099606496401975,0.00960751139717786,-10.207450849576887
+[03Jan2025 02:35:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
