@@ -5633,3 +5633,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 08:23:24.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
 [04Jan2025 08:24:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
 [04Jan2025 08:25:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:27:08.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 08:27:08.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 08:28:25.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 08:32:08.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 08:32:08.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 08:33:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:34:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was doomed to fall by Zombie
+[04Jan2025 08:34:30.751] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jan2025 08:34:30.752] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Jan2025 08:34:30.843] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[04Jan2025 08:34:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -132.500000, 132.500000, 38.500000]
+[04Jan2025 08:34:42.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
