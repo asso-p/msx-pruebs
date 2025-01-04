@@ -5689,3 +5689,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 09:27:08.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 09:32:08.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 09:32:08.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 09:37:08.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 09:37:08.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 09:37:15.467] [Server thread/INFO] [Scaling Health/]: Blight Decrepit Skeleton has died
+[04Jan2025 09:41:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000]
+[04Jan2025 09:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 10000]
+[04Jan2025 09:41:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 100000]
+[04Jan2025 09:41:14.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000000]
+[04Jan2025 09:41:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 9000000]
+[04Jan2025 09:42:08.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 09:42:08.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
