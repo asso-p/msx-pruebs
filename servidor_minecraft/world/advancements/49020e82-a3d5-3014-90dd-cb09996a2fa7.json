@@ -690,5 +690,23 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-01-04 11:47:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-01-04 11:48:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-01-04 11:48:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
