@@ -5669,3 +5669,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 08:52:08.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 08:54:42.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
 [04Jan2025 08:54:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:56:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 08:57:08.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 08:57:08.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 09:02:08.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 09:02:08.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 09:03:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
