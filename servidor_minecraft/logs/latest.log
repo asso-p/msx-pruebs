@@ -492,3 +492,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 07:57:19.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.126.113.67:42035] logged in with entity id 286 at (-148.1997530587079, 166.0, 50.82662160515055)
 [04Jan2025 07:57:19.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
 [04Jan2025 07:57:19.911] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
+[04Jan2025 08:06:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:07:22.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 08:08:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:08:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 08:14:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 08:15:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
