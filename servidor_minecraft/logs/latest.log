@@ -540,3 +540,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 09:41:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 100000]
 [04Jan2025 09:41:14.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000000]
 [04Jan2025 09:41:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 9000000]
+[04Jan2025 09:54:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
