@@ -541,3 +541,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 09:41:14.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 1000000]
 [04Jan2025 09:41:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the time to 9000000]
 [04Jan2025 09:54:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
+[04Jan2025 10:55:02.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> 7
+[04Jan2025 10:55:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Spectator Mode]
+[04Jan2025 10:55:26.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 10:55:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
