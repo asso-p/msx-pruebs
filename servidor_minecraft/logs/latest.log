@@ -548,3 +548,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 10:57:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
 [04Jan2025 10:58:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
 [04Jan2025 11:04:18.759] [Server thread/INFO] [Scaling Health/]: Blight Corpse Fly has died
+[04Jan2025 11:21:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set the weather to clear]
+[04Jan2025 11:25:22.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -178.500000, 132.500000, 46.500000]
+[04Jan2025 11:26:16.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -171.500000, 132.000000, 94.500000]
+[04Jan2025 11:27:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Successfully filled 472 block(s)]
