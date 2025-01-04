@@ -469,3 +469,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 21:54:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
 [04Jan2025 22:02:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
 [04Jan2025 22:05:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 22:07:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 22:08:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
+[04Jan2025 22:10:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Nightmare Stalker
+[04Jan2025 22:10:46.904] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Jan2025 22:10:46.905] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Jan2025 22:12:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -62.500000, 112.500000, -37.500000]
