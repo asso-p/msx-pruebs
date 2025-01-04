@@ -467,3 +467,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jan2025 21:48:25.025] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
 [04Jan2025 21:54:04.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
 [04Jan2025 21:54:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 50.500000]
+[04Jan2025 22:02:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Creative Mode]
+[04Jan2025 22:05:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
