@@ -6232,3 +6232,69 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jan2025 22:56:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> t
 [06Jan2025 22:56:43.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> p
 [06Jan2025 22:56:45.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to 49.500000, 88.500000, -43.500000]
+[06Jan2025 22:57:07.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> xdddddddddddddddddddd
+[06Jan2025 22:57:11.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[06Jan2025 22:57:31.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 22:57:31.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 22:57:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> el empuje que tiene
+[06Jan2025 22:57:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tienes comida?
+[06Jan2025 22:57:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si
+[06Jan2025 22:58:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y ese wey?
+[06Jan2025 22:58:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> lo que pega
+[06Jan2025 22:58:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tp
+[06Jan2025 22:58:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture was slain by Zombie Villager
+[06Jan2025 22:58:45.520] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 22:58:45.520] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Jan2025 22:58:45.572] [Server thread/DEBUG] [twilightforest/]: Player InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675) respawned and received items held in storage
+[06Jan2025 22:58:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> un pto zombie invisible
+[06Jan2025 22:58:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to 43.500000, 88.500000, -58.500000]
+[06Jan2025 22:58:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Zombie
+[06Jan2025 22:58:59.463] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 22:58:59.463] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Jan2025 22:58:59.494] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[06Jan2025 22:59:01.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaj
+[06Jan2025 22:59:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to 160.500000, 86.500000, -71.500000]
+[06Jan2025 22:59:13.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y el wey gigante?
+[06Jan2025 22:59:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> aqui
+[06Jan2025 22:59:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> nmms D:
+[06Jan2025 22:59:30.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> el espantapajaros
+[06Jan2025 22:59:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> son 2 weyes gigantea
+[06Jan2025 23:00:02.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[06Jan2025 23:00:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ah no xd
+[06Jan2025 23:00:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> me das eat?
+[06Jan2025 23:00:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> food*
+[06Jan2025 23:01:19.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> se te rompio la espada?
+[06Jan2025 23:01:24.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no
+[06Jan2025 23:01:27.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira
+[06Jan2025 23:01:29.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero ya casi
+[06Jan2025 23:01:39.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que es esa madre
+[06Jan2025 23:02:31.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:02:31.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:02:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> con arco xd
+[06Jan2025 23:03:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Zombie Villager
+[06Jan2025 23:03:20.338] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 23:03:20.338] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Jan2025 23:03:20.370] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[06Jan2025 23:03:23.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -5.500000, 88.500000, -29.500000]
+[06Jan2025 23:03:36.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -3.500000, 66.500000, -31.500000]
+[06Jan2025 23:03:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Siamese Skeletons
+[06Jan2025 23:03:40.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 23:03:40.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Jan2025 23:03:40.087] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[06Jan2025 23:03:43.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -4.500000, 65.500000, -31.500000]
+[06Jan2025 23:03:50.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[06Jan2025 23:03:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tuve miedo
+[06Jan2025 23:04:04.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[06Jan2025 23:04:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que era la barra azul que tenias
+[06Jan2025 23:04:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[06Jan2025 23:05:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Zombie Villager
+[06Jan2025 23:05:40.691] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 23:05:40.691] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Jan2025 23:05:40.723] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[06Jan2025 23:05:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to 40.500000, 88.500000, -57.500000]
+[06Jan2025 23:06:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja
+[06Jan2025 23:06:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y todavia nos falta el boss del mod xd
+[06Jan2025 23:06:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a
+[06Jan2025 23:06:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pero que te da ese wey
+[06Jan2025 23:06:50.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya te dije
+[06Jan2025 23:06:57.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no recuerdo
