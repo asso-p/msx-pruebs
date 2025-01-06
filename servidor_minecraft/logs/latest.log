@@ -474,3 +474,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jan2025 21:44:05.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Spectator Mode]
 [06Jan2025 21:44:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Set own game mode to Survival Mode]
 [06Jan2025 21:45:43.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 21:49:28.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 21:50:38.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38d5cd08[id=<null>,name=InFuture,properties={},legacy=false] (/127.241.237.43:39817) lost connection: Disconnected
+[06Jan2025 21:50:53.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 21:51:47.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InFuture[/127.241.237.43:41419] logged in with entity id 2887 at (-137.3721193234544, 160.0, 49.20370580232941)
+[06Jan2025 21:51:47.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture joined the game
+[06Jan2025 21:51:47.565] [Server thread/INFO] [Jade/]: Syncing config to InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675)
+[06Jan2025 21:52:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja
+[06Jan2025 21:52:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -146.500000, 181.500000, 29.500000]
+[06Jan2025 21:52:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
+[06Jan2025 21:53:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> arutro?
+[06Jan2025 21:53:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> salaverga donde ando
+[06Jan2025 21:53:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira
+[06Jan2025 21:53:09.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> atras xd
+[06Jan2025 21:53:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que ptas paso
+[06Jan2025 21:53:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> es la jause
+[06Jan2025 21:53:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> de que o que
+[06Jan2025 21:53:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> aguant a5 fps
+[06Jan2025 21:53:28.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> slv
+[06Jan2025 21:53:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a canijo como que la jouse
+[06Jan2025 21:53:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que mocasiones
+[06Jan2025 21:54:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mocaisones de que
+[06Jan2025 21:54:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> en que momento hiciste todo esto
+[06Jan2025 21:54:31.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ayer, anties y el viernes
+[06Jan2025 21:54:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[06Jan2025 21:54:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> vente
+[06Jan2025 21:54:50.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported InFuture to Asso0912]
+[06Jan2025 21:54:58.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y este burro?
+[06Jan2025 21:55:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pistacho
+[06Jan2025 21:55:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi andaba
+[06Jan2025 21:55:41.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> quepi
+[06Jan2025 21:55:45.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> estas que flipas no?
+[06Jan2025 21:55:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si
+[06Jan2025 21:56:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> y mi perrro
