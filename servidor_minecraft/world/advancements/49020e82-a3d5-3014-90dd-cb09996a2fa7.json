@@ -708,5 +708,11 @@
     },
     "done": true
   },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2025-01-06 22:17:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -6057,3 +6057,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jan2025 22:16:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a cierto xd
 [06Jan2025 22:16:12.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> wey
 [06Jan2025 22:16:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 22:16:22.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> puedo usar el boquete que hiciste para meter ahi los aldeanos?
+[06Jan2025 22:16:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> si quieres xd
+[06Jan2025 22:16:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no tiene uso
+[06Jan2025 22:16:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture was slain by Zombie
+[06Jan2025 22:16:38.112] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Jan2025 22:16:38.113] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[06Jan2025 22:16:38.161] [Server thread/DEBUG] [twilightforest/]: Player InFuture (fd8d681e-31be-34d3-a5ba-e8eda0192675) respawned and received items held in storage
+[06Jan2025 22:16:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> tptm que lag voy
+[06Jan2025 22:16:41.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja
+[06Jan2025 22:16:56.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si jugaramos lol capaz hiria a 700
+[06Jan2025 22:17:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -54.500000, 112.500000, -32.500000]
+[06Jan2025 22:17:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
+[06Jan2025 22:17:27.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Just Be Friends]
+[06Jan2025 22:17:31.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 22:17:31.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 22:17:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> porque tiene pico
+[06Jan2025 22:17:42.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> se lo di
+[06Jan2025 22:17:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InFuture has made the advancement [Just Be Friends]
+[06Jan2025 22:18:03.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> esta bien contento el vrg
+[06Jan2025 22:18:12.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> esta bien armado
+[06Jan2025 22:18:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jaja si
+[06Jan2025 22:18:28.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jaja
+[06Jan2025 22:18:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jjaja wtf
+[06Jan2025 22:18:31.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> la tiene de pito
+[06Jan2025 22:18:34.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaj
+[06Jan2025 22:18:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira como lo muestra el contentin
+[06Jan2025 22:18:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> jajaj
+[06Jan2025 22:18:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jajajajaj
+[06Jan2025 22:19:01.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ahi que quete
+[06Jan2025 22:19:02.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> jaja wtf
+[06Jan2025 22:20:13.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> donde lo pongo
+[06Jan2025 22:20:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> olvidalo
+[06Jan2025 22:20:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya se donde
+[06Jan2025 22:20:21.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 22:22:31.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 22:22:31.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 22:22:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -149.500000, 187.500000, 35.500000]
+[06Jan2025 22:24:16.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como agarras a la papita
+[06Jan2025 22:24:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> CON PICO
+[06Jan2025 22:24:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no mmes se erompe
+[06Jan2025 22:24:38.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> SI
+[06Jan2025 22:25:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[06Jan2025 22:25:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que mrda es eso del vertedero
+[06Jan2025 22:26:21.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> al saber
