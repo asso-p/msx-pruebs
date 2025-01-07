@@ -813,5 +813,11 @@
     },
     "done": false
   },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-01-07 03:17:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

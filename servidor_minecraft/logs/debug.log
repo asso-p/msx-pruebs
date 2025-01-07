@@ -7421,3 +7421,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jan2025 03:10:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> o hago hydroflores?
 [07Jan2025 03:10:08.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> como veas
 [07Jan2025 03:10:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> cierto las chiiiiisas
+[07Jan2025 03:10:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> chiiipas*
+[07Jan2025 03:10:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> zz?
+[07Jan2025 03:11:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> duermete pues
+[07Jan2025 03:12:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> duermete maldito animal
+[07Jan2025 03:12:25.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que haces en ig
+[07Jan2025 03:12:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[07Jan2025 03:12:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> esperando que te duerams
+[07Jan2025 03:12:35.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:12:35.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:12:41.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
+[07Jan2025 03:13:34.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> movi tu caña de azucar
+[07Jan2025 03:14:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> porque no me deja ponerle polvo de hueso a la caña
+[07Jan2025 03:14:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> no se xd
+[07Jan2025 03:14:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> gracias
+[07Jan2025 03:14:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> gracias que
+[07Jan2025 03:16:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> a jijo
+[07Jan2025 03:16:16.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> hay una flor que produce mana con lava
+[07Jan2025 03:16:27.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[07Jan2025 03:16:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -61.500000, 112.500000, -30.500000]
+[07Jan2025 03:17:08.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Drop Pop Candy]
+[07Jan2025 03:17:35.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:17:35.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:19:53.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -232.500000, 112.500000, -94.500000]
+[07Jan2025 03:20:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -955.500000, 64.500000, 869.500000]
+[07Jan2025 03:20:15.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
