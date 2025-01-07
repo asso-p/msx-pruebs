@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-01-07 02:59:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-06 22:53:29 +0000"
