@@ -771,5 +771,29 @@
     },
     "done": true
   },
+  "vinery:main/fermentation": {
+    "criteria": {
+      "fermentation_barrel": "2025-01-07 01:49:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/apple_press": {
+    "criteria": {
+      "apple_press": "2025-01-07 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple_mash": {
+    "criteria": {
+      "apple_mash": "2025-01-07 01:51:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-07 01:42:04 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
