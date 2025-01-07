@@ -238,6 +238,7 @@
       "minecraft:deep_cold_ocean": "2024-12-19 01:08:30 +0000",
       "minecraft:ocean": "2024-12-19 01:08:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 01:12:51 +0000",
+      "minecraft:flower_forest": "2025-01-07 03:41:39 +0000",
       "minecraft:frozen_peaks": "2024-12-18 01:22:26 +0000",
       "minecraft:deep_dark": "2024-12-20 00:39:12 +0000",
       "minecraft:meadow": "2024-12-18 01:16:09 +0000",
@@ -610,8 +611,15 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:47:22 +0000",
       "bakery:sandwich": "2024-12-20 03:27:25 +0000",
-      "bakery:misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
+      "bakery:misslilitu_biscuit": "2025-01-07 00:18:31 +0000",
+      "bakery:apple_cupcake": "2025-01-07 03:47:22 +0000",
+      "bakery:baguette": "2025-01-07 03:47:19 +0000",
+      "bakery:chocolate_tart": "2025-01-07 03:47:44 +0000",
+      "bakery:sweetberry_cupcake": "2025-01-07 03:47:22 +0000",
+      "bakery:bun": "2025-01-07 03:47:57 +0000",
+      "bakery:linzer_tart": "2025-01-07 03:47:14 +0000"
     },
     "done": false
   },
@@ -807,6 +815,14 @@
     },
     "done": true
   },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:47:22 +0000",
+      "bakery:sweetberry_cupcake": "2025-01-07 03:47:22 +0000",
+      "bakery:apple_cupcake": "2025-01-07 03:47:22 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-01-07 01:42:04 +0000"
@@ -819,11 +835,26 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-01-07 03:39:21 +0000"
+    },
+    "done": true
+  },
   "botania:main/rune_pickup": {
     "criteria": {
       "rune": "2025-01-07 03:17:08 +0000"
     },
     "done": true
+  },
+  "bakery:main/get_all_baked_goods": {
+    "criteria": {
+      "bakery:baguette": "2025-01-07 03:47:19 +0000",
+      "bakery:chocolate_tart": "2025-01-07 03:47:44 +0000",
+      "bakery:bun": "2025-01-07 03:47:57 +0000",
+      "bakery:linzer_tart": "2025-01-07 03:47:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -492,6 +492,7 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:49:48 +0000",
       "bakery:sandwich": "2024-12-20 03:27:59 +0000",
       "bakery:misslilitu_biscuit": "2025-01-07 00:18:43 +0000"
     },
@@ -557,9 +558,21 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-07 03:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-06 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-07 03:42:44 +0000"
     },
     "done": true
   },
@@ -601,6 +614,12 @@
     },
     "done": false
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-01-07 03:42:44 +0000"
+    },
+    "done": true
+  },
   "bakery:main/get_misslilitu_biscuit": {
     "criteria": {
       "misslilitu_biscuit": "2025-01-07 00:18:43 +0000"
@@ -625,6 +644,12 @@
     },
     "done": true
   },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:49:48 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-01-07 02:33:15 +0000",
@@ -632,6 +657,18 @@
       "carrot": "2025-01-07 00:22:00 +0000"
     },
     "done": false
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-01-07 03:54:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-01-07 03:42:44 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
