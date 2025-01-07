@@ -722,5 +722,11 @@
     },
     "done": true
   },
+  "bakery:main/place_stove": {
+    "criteria": {
+      "stone_bricks_stove": "2025-01-07 00:07:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
