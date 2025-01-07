@@ -603,6 +603,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-07 02:33:15 +0000",
       "wheat": "2025-01-07 00:22:32 +0000",
       "carrot": "2025-01-07 00:22:00 +0000"
     },
