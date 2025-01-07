@@ -6678,3 +6678,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jan2025 00:32:33.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 00:37:33.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 00:37:33.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:42:33.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:42:33.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:43:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 was slain by Zombie Clown
+[07Jan2025 00:43:46.598] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Jan2025 00:43:46.598] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[07Jan2025 00:43:46.636] [Server thread/DEBUG] [twilightforest/]: Player Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7) respawned and received items held in storage
+[07Jan2025 00:44:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Tiny Treats: Crafting a Small Cooking Pot]
+[07Jan2025 00:46:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -300.500000, 63.500000, 163.500000]
+[07Jan2025 00:47:18.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[07Jan2025 00:47:33.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:47:33.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
