@@ -723,6 +723,12 @@
     },
     "done": true
   },
+  "bakery:main/place_baker_station": {
+    "criteria": {
+      "baker_station": "2025-01-07 00:51:37 +0000"
+    },
+    "done": true
+  },
   "bakery:main/get_misslilitu_biscuit": {
     "criteria": {
       "misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
