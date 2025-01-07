@@ -783,9 +783,21 @@
     },
     "done": true
   },
+  "vinery:main/wine_collector": {
+    "criteria": {
+      "vinery:apple_cider": "2025-01-07 02:39:45 +0000"
+    },
+    "done": false
+  },
   "vinery:main/get_apple_mash": {
     "criteria": {
       "apple_mash": "2025-01-07 01:51:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_wine": {
+    "criteria": {
+      "have_any_wine": "2025-01-07 02:39:45 +0000"
     },
     "done": true
   },
