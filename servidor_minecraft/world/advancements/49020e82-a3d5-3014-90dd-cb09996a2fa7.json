@@ -783,17 +783,11 @@
     },
     "done": true
   },
-  "vinery:main/fermentation": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "fermentation_barrel": "2025-01-07 01:49:28 +0000"
+      "sugar_cane": "2025-01-07 01:42:04 +0000"
     },
-    "done": true
-  },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "altar": "2025-01-07 02:53:21 +0000"
-    },
-    "done": true
+    "done": false
   },
   "vinery:main/apple_press": {
     "criteria": {
@@ -801,15 +795,15 @@
     },
     "done": true
   },
-  "vinery:main/crop_collector": {
+  "vinery:main/fermentation": {
     "criteria": {
-      "vinery:red_grape_seeds": "2025-01-07 03:59:26 +0000"
+      "fermentation_barrel": "2025-01-07 01:49:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "vinery:main/wild_crops": {
+  "vinery:main/get_apple_mash": {
     "criteria": {
-      "red_grape_seeds": "2025-01-07 03:59:26 +0000"
+      "apple_mash": "2025-01-07 01:51:54 +0000"
     },
     "done": true
   },
@@ -819,31 +813,23 @@
     },
     "done": false
   },
-  "vinery:main/get_apple_mash": {
-    "criteria": {
-      "apple_mash": "2025-01-07 01:51:54 +0000"
-    },
-    "done": true
-  },
   "vinery:main/get_wine": {
     "criteria": {
       "have_any_wine": "2025-01-07 02:39:45 +0000"
     },
     "done": true
   },
-  "bakery:main/get_all_caked_goods": {
+  "botania:main/runic_altar_pickup": {
     "criteria": {
-      "bakery:chocolate_glazed_cookie": "2025-01-07 03:47:22 +0000",
-      "bakery:sweetberry_cupcake": "2025-01-07 03:47:22 +0000",
-      "bakery:apple_cupcake": "2025-01-07 03:47:22 +0000"
+      "altar": "2025-01-07 02:53:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "botania:main/rune_pickup": {
     "criteria": {
-      "sugar_cane": "2025-01-07 01:42:04 +0000"
+      "rune": "2025-01-07 03:17:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "ad_astra:ocean_cleanup": {
     "criteria": {
@@ -857,12 +843,6 @@
     },
     "done": true
   },
-  "botania:main/rune_pickup": {
-    "criteria": {
-      "rune": "2025-01-07 03:17:08 +0000"
-    },
-    "done": true
-  },
   "bakery:main/get_all_baked_goods": {
     "criteria": {
       "bakery:baguette": "2025-01-07 03:47:19 +0000",
@@ -871,6 +851,62 @@
       "bakery:linzer_tart": "2025-01-07 03:47:14 +0000"
     },
     "done": false
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:47:22 +0000",
+      "bakery:sweetberry_cupcake": "2025-01-07 03:47:22 +0000",
+      "bakery:apple_cupcake": "2025-01-07 03:47:22 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2025-01-07 03:59:26 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2025-01-07 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-01-07 12:31:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-01-07 12:31:29 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-01-07 12:31:28 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-01-07 12:31:29 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-01-07 12:31:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-07 12:31:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
