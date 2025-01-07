@@ -6787,3 +6787,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jan2025 01:13:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a
 [07Jan2025 01:17:35.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 01:17:35.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 01:22:35.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 01:22:35.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 01:25:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> e
+[07Jan2025 01:27:35.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 01:27:35.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
