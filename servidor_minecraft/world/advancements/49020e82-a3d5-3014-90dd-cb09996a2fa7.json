@@ -872,6 +872,18 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-01-07 12:31:28 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-01-07 12:31:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-01-07 12:31:29 +0000"
@@ -884,21 +896,9 @@
     },
     "done": true
   },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2025-01-07 12:31:28 +0000"
-    },
-    "done": true
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-01-07 12:31:29 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/root": {
-    "criteria": {
-      "seeds": "2025-01-07 12:31:28 +0000"
     },
     "done": true
   },
