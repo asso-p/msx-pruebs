@@ -610,7 +610,8 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
-      "bakery:sandwich": "2024-12-20 03:27:25 +0000"
+      "bakery:sandwich": "2024-12-20 03:27:25 +0000",
+      "bakery:misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
     },
     "done": false
   },
@@ -713,6 +714,12 @@
   "undergarden:undergarden/catalyst": {
     "criteria": {
       "has_catalyst": "2025-01-06 23:46:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_misslilitu_biscuit": {
+    "criteria": {
+      "misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
     },
     "done": true
   },
