@@ -777,6 +777,12 @@
     },
     "done": true
   },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-01-07 02:53:21 +0000"
+    },
+    "done": true
+  },
   "vinery:main/apple_press": {
     "criteria": {
       "apple_press": "2025-01-07 01:47:27 +0000"
