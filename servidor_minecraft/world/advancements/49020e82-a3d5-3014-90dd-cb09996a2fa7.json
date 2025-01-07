@@ -717,6 +717,24 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-07 01:03:01 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/place_pot": {
+    "criteria": {
+      "grapevine_pot": "2025-01-07 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-07 01:03:01 +0000"
+    },
+    "done": true
+  },
   "bakery:main/place_cooking_pot": {
     "criteria": {
       "small_cooking_pot": "2025-01-07 00:44:16 +0000"
@@ -732,6 +750,12 @@
   "bakery:main/get_misslilitu_biscuit": {
     "criteria": {
       "misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-07 01:03:01 +0000"
     },
     "done": true
   },
