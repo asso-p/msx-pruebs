@@ -711,27 +711,27 @@
     },
     "done": true
   },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2025-01-06 22:17:27 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/catalyst": {
     "criteria": {
       "has_catalyst": "2025-01-06 23:46:22 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "bakery:main/place_stove": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-01-07 01:03:01 +0000"
-    },
-    "done": false
-  },
-  "vinery:main/place_pot": {
-    "criteria": {
-      "grapevine_pot": "2025-01-07 01:02:48 +0000"
+      "stone_bricks_stove": "2025-01-07 00:07:47 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "bakery:main/get_misslilitu_biscuit": {
     "criteria": {
-      "entered_nether": "2025-01-07 01:03:01 +0000"
+      "misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
     },
     "done": true
   },
@@ -747,27 +747,27 @@
     },
     "done": true
   },
-  "bakery:main/get_misslilitu_biscuit": {
+  "vinery:main/place_pot": {
     "criteria": {
-      "misslilitu_biscuit": "2025-01-07 00:18:31 +0000"
+      "grapevine_pot": "2025-01-07 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-07 01:03:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-07 01:03:01 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-07 01:03:01 +0000"
-    },
-    "done": true
-  },
-  "botania:main/tiny_potato_pet": {
-    "criteria": {
-      "code_triggered": "2025-01-06 22:17:27 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/place_stove": {
-    "criteria": {
-      "stone_bricks_stove": "2025-01-07 00:07:47 +0000"
     },
     "done": true
   },

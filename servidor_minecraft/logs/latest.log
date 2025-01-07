@@ -242,3 +242,17 @@
 [07Jan2025 01:04:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 left the game
 [07Jan2025 01:13:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> a
 [07Jan2025 01:25:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> e
+[07Jan2025 01:36:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to -169.500000, 159.500000, 52.500000]
+[07Jan2025 01:36:26.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@442f6193[id=<null>,name=Asso0912,properties={},legacy=false] (/127.63.175.63:43421) lost connection: Disconnected
+[07Jan2025 01:36:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to 76.500000, 88.500000, -50.500000]
+[07Jan2025 01:36:59.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42280a39[id=<null>,name=Asso0912,properties={},legacy=false] (/127.63.175.63:52179) lost connection: Disconnected
+[07Jan2025 01:37:24.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asso0912[/127.63.175.63:35147] logged in with entity id 70613 at (-147.5774162875166, 160.0, 34.80332067511958)
+[07Jan2025 01:37:24.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 joined the game
+[07Jan2025 01:37:24.519] [Server thread/INFO] [Jade/]: Syncing config to Asso0912 (49020e82-a3d5-3014-90dd-cb09996a2fa7)
+[07Jan2025 01:37:46.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> hola, buenas noches ¿quien eres?
+[07Jan2025 01:38:07.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tu padre
+[07Jan2025 01:38:15.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> slv 3fps
+[07Jan2025 01:38:31.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> por que hay 4 bandejas
+[07Jan2025 01:38:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> oh vaya, al parecer eres una persona muy bromista
+[07Jan2025 01:38:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ya me dejo de mmdas
+[07Jan2025 01:38:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> cuales 4 bandejas
