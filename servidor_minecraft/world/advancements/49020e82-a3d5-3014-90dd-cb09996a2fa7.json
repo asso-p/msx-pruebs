@@ -230,6 +230,7 @@
       "minecraft:cherry_grove": "2024-12-18 01:17:24 +0000",
       "minecraft:sunflower_plains": "2024-12-19 01:40:24 +0000",
       "minecraft:beach": "2024-12-18 23:45:25 +0000",
+      "minecraft:sparse_jungle": "2025-01-07 04:03:54 +0000",
       "minecraft:river": "2024-12-18 23:05:59 +0000",
       "minecraft:stony_shore": "2024-12-18 22:38:56 +0000",
       "minecraft:dripstone_caves": "2024-12-19 23:16:29 +0000",
@@ -238,8 +239,10 @@
       "minecraft:deep_cold_ocean": "2024-12-19 01:08:30 +0000",
       "minecraft:ocean": "2024-12-19 01:08:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 01:12:51 +0000",
+      "minecraft:windswept_savanna": "2025-01-07 04:07:00 +0000",
       "minecraft:flower_forest": "2025-01-07 03:41:39 +0000",
       "minecraft:frozen_peaks": "2024-12-18 01:22:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-07 04:03:40 +0000",
       "minecraft:deep_dark": "2024-12-20 00:39:12 +0000",
       "minecraft:meadow": "2024-12-18 01:16:09 +0000",
       "minecraft:plains": "2024-12-18 01:21:36 +0000"
@@ -794,6 +797,18 @@
   "vinery:main/apple_press": {
     "criteria": {
       "apple_press": "2025-01-07 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2025-01-07 03:59:26 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2025-01-07 03:59:26 +0000"
     },
     "done": true
   },
