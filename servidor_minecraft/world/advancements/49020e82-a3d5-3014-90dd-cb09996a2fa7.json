@@ -813,6 +813,12 @@
     },
     "done": false
   },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-01-07 03:32:52 +0000"
+    },
+    "done": true
+  },
   "botania:main/rune_pickup": {
     "criteria": {
       "rune": "2025-01-07 03:17:08 +0000"

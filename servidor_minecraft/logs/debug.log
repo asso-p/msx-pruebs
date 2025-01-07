@@ -7446,3 +7446,116 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jan2025 03:19:53.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -232.500000, 112.500000, -94.500000]
 [07Jan2025 03:20:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -955.500000, 64.500000, 869.500000]
 [07Jan2025 03:20:15.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[07Jan2025 03:22:37.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:22:37.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:24:01.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> zz?
+[07Jan2025 03:24:17.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> rapido luis
+[07Jan2025 03:25:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> como extraño la casa
+[07Jan2025 03:27:31.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> pues onde andas
+[07Jan2025 03:27:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> en acapulco
+[07Jan2025 03:27:37.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:27:37.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:28:07.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2938ms or 58 ticks behind
+[07Jan2025 03:28:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> dios mio que lag
+[07Jan2025 03:28:22.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> mamta los cerditos
+[07Jan2025 03:28:44.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya te dije ando en acapulco xd
+[07Jan2025 03:29:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
+[07Jan2025 03:30:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> que haces aca
+[07Jan2025 03:30:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> exploro
+[07Jan2025 03:30:17.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> para que
+[07Jan2025 03:30:17.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tengo 2 mapas del tesoro
+[07Jan2025 03:30:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> necesito flores luis xd
+[07Jan2025 03:31:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[07Jan2025 03:31:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> luis?
+[07Jan2025 03:31:57.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eu
+[07Jan2025 03:32:31.466] [Worker-Main-155/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2703, y=-1, z=1185}
+[07Jan2025 03:32:33.155] [Worker-Main-213/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2695, y=-3, z=1209}
+[07Jan2025 03:32:34.647] [Worker-Main-213/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2708, y=-1, z=1191}
+[07Jan2025 03:32:35.513] [Worker-Main-197/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2700, y=0, z=1216}
+[07Jan2025 03:32:35.514] [Worker-Main-197/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2703, y=0, z=1216}
+[07Jan2025 03:32:40.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:32:40.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:32:52.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Ocean Cleanup]
+[07Jan2025 03:33:10.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya necesitamos ir a la luna
+[07Jan2025 03:33:17.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> no mmes lo iba agarrar yo
+[07Jan2025 03:34:09.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> movete?
+[07Jan2025 03:34:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> ya xd
+[07Jan2025 03:34:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> fui por agua xd
+[07Jan2025 03:35:16.977] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[07Jan2025 03:35:16.981] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[07Jan2025 03:35:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tierra a la vista
+[07Jan2025 03:35:31.156] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[07Jan2025 03:35:31.157] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[07Jan2025 03:35:31.176] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[07Jan2025 03:35:31.176] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[07Jan2025 03:35:31.177] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[07Jan2025 03:35:31.177] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[07Jan2025 03:35:31.177] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[07Jan2025 03:35:31.178] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[07Jan2025 03:35:31.556] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[07Jan2025 03:35:31.558] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[07Jan2025 03:35:31.558] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[07Jan2025 03:35:31.559] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[07Jan2025 03:36:23.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> cierto no tiens cama xd
+[07Jan2025 03:36:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> que haces xdd
+[07Jan2025 03:36:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> si tengo
+[07Jan2025 03:36:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> nmms
+[07Jan2025 03:37:07.468] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[07Jan2025 03:37:07.469] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[07Jan2025 03:37:07.488] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[07Jan2025 03:37:07.488] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[07Jan2025 03:37:07.488] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[07Jan2025 03:37:07.489] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[07Jan2025 03:37:07.489] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[07Jan2025 03:37:07.489] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[07Jan2025 03:37:07.489] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[07Jan2025 03:37:07.490] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[07Jan2025 03:37:07.490] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[07Jan2025 03:37:07.490] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[07Jan2025 03:37:07.490] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[07Jan2025 03:37:07.490] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[07Jan2025 03:37:07.491] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[07Jan2025 03:37:07.491] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[07Jan2025 03:37:07.491] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[07Jan2025 03:37:07.491] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[07Jan2025 03:37:07.492] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[07Jan2025 03:37:07.492] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[07Jan2025 03:37:07.511] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[07Jan2025 03:37:07.511] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[07Jan2025 03:37:26.737] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[07Jan2025 03:37:26.738] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[07Jan2025 03:37:26.739] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[07Jan2025 03:37:26.741] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[07Jan2025 03:37:26.741] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[07Jan2025 03:37:26.741] [Worker-Main-213/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[07Jan2025 03:37:35.560] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[07Jan2025 03:37:35.561] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[07Jan2025 03:37:35.561] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[07Jan2025 03:37:35.625] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[07Jan2025 03:37:35.625] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[07Jan2025 03:37:35.626] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[07Jan2025 03:37:35.626] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[07Jan2025 03:37:35.626] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[07Jan2025 03:37:35.626] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[07Jan2025 03:37:40.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:37:40.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:38:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> tengo llena la mochila xd
+[07Jan2025 03:38:29.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira zanahoria
+[07Jan2025 03:38:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> mira nuestra casa
+[07Jan2025 03:38:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> JAJ
+[07Jan2025 03:39:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Left hanging]
+[07Jan2025 03:39:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> weey
+[07Jan2025 03:39:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to InFuture]
+[07Jan2025 03:39:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> waacha
+[07Jan2025 03:39:54.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InFuture: Teleported InFuture to Asso0912]
+[07Jan2025 03:39:56.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> eu
+[07Jan2025 03:40:01.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> la azada que te di
+[07Jan2025 03:40:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> sptm efi 5
+[07Jan2025 03:40:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> la junto con la otra que tengo
+[07Jan2025 03:40:13.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> o
+[07Jan2025 03:40:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> se podia pasar el enchant a libro?
+[07Jan2025 03:40:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> esperas al nuevo modpack xd
+[07Jan2025 03:40:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> ppara que
+[07Jan2025 03:40:35.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> hay un libro que te permite quitar encantamientos xd
+[07Jan2025 03:40:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <InFuture> xd
+[07Jan2025 03:40:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asso0912> y no es nada barato ni esta roto xd
