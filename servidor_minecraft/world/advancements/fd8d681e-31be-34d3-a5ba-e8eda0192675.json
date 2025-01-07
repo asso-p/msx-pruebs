@@ -563,6 +563,12 @@
     },
     "done": false
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2025-01-07 02:16:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-07 01:02:52 +0000"
