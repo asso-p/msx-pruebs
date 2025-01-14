@@ -785,7 +785,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-01-07 01:42:04 +0000"
+      "cabbage": "2025-01-14 01:02:16 +0000",
+      "sugar_cane": "2025-01-07 01:42:04 +0000",
+      "wheat": "2025-01-14 01:02:24 +0000"
     },
     "done": false
   },
@@ -920,6 +922,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-01-14 01:03:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-14 01:02:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-14 00:52:17 +0000"
@@ -929,6 +943,18 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-14 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_juice": {
+    "criteria": {
+      "red_grape_juice": "2025-01-14 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-14 01:03:38 +0000"
     },
     "done": true
   },

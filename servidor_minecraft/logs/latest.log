@@ -1066,3 +1066,61 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'brewina
 [14Jan2025 00:52:17.814] [Server thread/INFO] [tombstone/]: The player Asso0912 has successfully been saved
 [14Jan2025 00:53:03.231] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [14Jan2025 00:53:03.232] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jan2025 01:02:24.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [A Seedy Place]
+[14Jan2025 01:02:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[14Jan2025 01:03:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to 66.500000, 87.500000, -53.500000]
+[14Jan2025 01:03:38.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [The Parrots and the Bats]
+[14Jan2025 01:04:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asso0912: Teleported Asso0912 to -149.500000, 160.500000, 51.500000]
+[14Jan2025 01:04:44.695] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@551a4cb9[id=<null>,name=InFuture,properties={},legacy=false] (/127.8.26.228:40055): Took too long to log in
+[14Jan2025 01:04:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@551a4cb9[id=<null>,name=InFuture,properties={},legacy=false] (/127.8.26.228:40055) lost connection: Took too long to log in
+[14Jan2025 01:04:44.743] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 01:05:34.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@169b61ba[id=<null>,name=InFuture,properties={},legacy=false] (/127.8.26.228:41175) lost connection: Disconnected
+[14Jan2025 01:05:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 has made the advancement [Your first Grapejuice]
+[14Jan2025 01:07:01.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asso0912 lost connection: Disconnected
+[14Jan2025 01:07:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asso0912 left the game
+[14Jan2025 01:07:08.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@11c1454e[id=<null>,name=InFuture,properties={},legacy=false] (/127.8.26.228:44103): Took too long to log in
+[14Jan2025 01:07:08.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11c1454e[id=<null>,name=InFuture,properties={},legacy=false] (/127.8.26.228:44103) lost connection: Took too long to log in
+[14Jan2025 01:07:08.883] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 01:07:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jan2025 01:07:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jan2025 01:07:37.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jan2025 01:07:37.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jan2025 01:07:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jan2025 01:07:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[14Jan2025 01:07:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[14Jan2025 01:07:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[14Jan2025 01:07:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[14Jan2025 01:07:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jan2025 01:07:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[14Jan2025 01:07:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[14Jan2025 01:07:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[14Jan2025 01:07:37.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[14Jan2025 01:07:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jan2025 01:07:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[14Jan2025 01:07:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[14Jan2025 01:07:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[14Jan2025 01:07:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[14Jan2025 01:07:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[14Jan2025 01:07:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[14Jan2025 01:07:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[14Jan2025 01:07:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jan2025 01:07:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[14Jan2025 01:07:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jan2025 01:07:37.751] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Jan2025 01:07:37.752] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
