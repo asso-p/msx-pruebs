@@ -908,5 +908,29 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-14 00:53:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 00:52:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
