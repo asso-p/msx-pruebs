@@ -363,6 +363,7 @@
       "cooked_porkchop": "2025-01-07 00:57:18 +0000",
       "cooked_mutton": "2025-01-07 01:54:33 +0000",
       "cooked_beef": "2025-01-06 22:43:13 +0000",
+      "apple": "2025-01-17 00:16:22 +0000",
       "bread": "2024-12-19 23:19:10 +0000",
       "golden_apple": "2024-12-20 04:33:58 +0000",
       "carrot": "2025-01-07 00:21:10 +0000"
@@ -554,15 +555,23 @@
     },
     "done": true
   },
-  "botania:main/generating_flower": {
+  "botania:main/tiny_potato_pet": {
     "criteria": {
-      "flower": "2025-01-07 02:59:43 +0000"
+      "code_triggered": "2025-01-06 22:17:42 +0000"
     },
     "done": true
   },
-  "botania:challenge/root": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "flower": "2025-01-07 03:42:44 +0000"
+      "minecraft:cow": "2025-01-06 22:46:33 +0000",
+      "minecraft:pig": "2025-01-06 22:46:27 +0000",
+      "minecraft:sheep": "2025-01-07 01:23:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-06 22:46:27 +0000"
     },
     "done": true
   },
@@ -572,15 +581,35 @@
     },
     "done": true
   },
-  "botania:main/root": {
+  "bakery:main/get_misslilitu_biscuit": {
     "criteria": {
-      "flower": "2025-01-07 03:42:44 +0000"
+      "misslilitu_biscuit": "2025-01-07 00:18:43 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-07 02:33:15 +0000",
+      "wheat": "2025-01-07 00:22:32 +0000",
+      "carrot": "2025-01-07 00:22:00 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-07 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-07 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-07 01:02:52 +0000"
     },
     "done": true
   },
@@ -596,49 +625,11 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-07 01:02:52 +0000"
-    },
-    "done": true
-  },
   "vinery:main/wine_collector": {
     "criteria": {
       "vinery:apple_cider": "2025-01-07 02:40:03 +0000"
     },
     "done": false
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-01-06 22:46:33 +0000",
-      "minecraft:pig": "2025-01-06 22:46:27 +0000",
-      "minecraft:sheep": "2025-01-07 01:23:03 +0000"
-    },
-    "done": false
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-01-07 03:42:44 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/get_misslilitu_biscuit": {
-    "criteria": {
-      "misslilitu_biscuit": "2025-01-07 00:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-07 01:02:52 +0000"
-    },
-    "done": true
-  },
-  "botania:main/tiny_potato_pet": {
-    "criteria": {
-      "code_triggered": "2025-01-06 22:17:42 +0000"
-    },
-    "done": true
   },
   "vinery:main/get_wine": {
     "criteria": {
@@ -646,23 +637,27 @@
     },
     "done": true
   },
-  "bakery:main/get_all_caked_goods": {
+  "botania:main/generating_flower": {
     "criteria": {
-      "bakery:chocolate_glazed_cookie": "2025-01-07 03:49:48 +0000"
+      "flower": "2025-01-07 02:59:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "botania:challenge/root": {
     "criteria": {
-      "sugar_cane": "2025-01-07 02:33:15 +0000",
-      "wheat": "2025-01-07 00:22:32 +0000",
-      "carrot": "2025-01-07 00:22:00 +0000"
+      "flower": "2025-01-07 03:42:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "ad_astra:ocean_cleanup": {
+  "botania:main/root": {
     "criteria": {
-      "oil_bucket": "2025-01-07 03:54:51 +0000"
+      "flower": "2025-01-07 03:42:44 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-01-07 03:42:44 +0000"
     },
     "done": true
   },
@@ -672,9 +667,69 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "bakery:main/get_all_caked_goods": {
     "criteria": {
-      "bred": "2025-01-06 22:46:27 +0000"
+      "bakery:chocolate_glazed_cookie": "2025-01-07 03:49:48 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-01-07 03:54:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-01-17 00:04:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2025-01-17 00:15:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-17 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-17 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-01-17 00:04:45 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-01-17 00:04:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-17 00:10:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2025-01-17 00:15:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-17 00:04:46 +0000"
     },
     "done": true
   },
